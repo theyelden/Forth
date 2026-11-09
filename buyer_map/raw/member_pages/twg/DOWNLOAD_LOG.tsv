@@ -1,0 +1,7 @@
+file	source_url	downloaded_utc	bytes
+home.html	https://thewholesalegroup.co.uk/	2026-11-09T17:33:28Z	399419
+where-to-buy.html	https://thewholesalegroup.co.uk/where-to-buy/	2026-11-09T17:33:28Z	219052
+membership.html	https://thewholesalegroup.co.uk/membership/	2026-11-09T17:33:28Z	252645
+store_search_autoload.json	https://thewholesalegroup.co.uk/wp-admin/admin-ajax.php?action=store_search&lat=54&lng=-2.5&max_results=1000&search_radius=1000&autoload=1	2026-11-09T17:33:28Z	16602
+rest_wpsl_stores.json	https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100	2026-11-09T17:37:15Z	112617
+rest_wpsl_store_category.json	https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_store_category?per_page=100	2026-11-09T17:37:17Z	3722

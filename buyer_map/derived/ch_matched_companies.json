@@ -1,0 +1,2339 @@
+[
+ {
+  "name": "A J WHOLESALE LTD",
+  "number": "06683117",
+  "postcode": "CF14 8LH",
+  "town": "CARDIFF",
+  "status": "Active - Proposal to Strike off",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "A TO Z PROPERTIES HOLDINGS LIMITED",
+  "number": "12045832",
+  "postcode": "N8 9DG",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "64209 - Activities of other holding companies n.e.c."
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "A.F.BLAKEMORE AND SON LIMITED",
+  "number": "00391135",
+  "postcode": "WV13 2JP",
+  "town": "WILLENHALL",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "A.G. PARFETT & SONS LIMITED",
+  "number": "01472970",
+  "postcode": "SK4 2JP",
+  "town": "CHESHIRE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "ADAMSON'S DRINKS LTD.",
+  "number": "SC234220",
+  "postcode": "KY11 8HN",
+  "town": "DUNFERMLINE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46341 - Wholesale of fruit and vegetable juices, mineral water and soft drinks"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "AGRIMARK LIMITED",
+  "number": "06203371",
+  "postcode": "S36 4GS",
+  "town": "SHEFFIELD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "45310 - Wholesale trade of motor vehicle parts and accessories",
+   "47990 - Other retail sale not in stores, stalls or markets",
+   "77390 - Renting and leasing of other machinery, equipment and tangible goods n.e.c."
+  ],
+  "previous_names": [
+   "AGRIMARK HOLDINGS LIMITED"
+  ]
+ },
+ {
+  "name": "ALBION FINE FOODS LIMITED",
+  "number": "10379589",
+  "postcode": "SW1P 1BB",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "70100 - Activities of head offices"
+  ],
+  "previous_names": [
+   "STEVTON (NO.663) LIMITED"
+  ]
+ },
+ {
+  "name": "ALFA (WHOLESALE) LIMITED",
+  "number": "SC080128",
+  "postcode": "G3 8HZ",
+  "town": "",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46190 - Agents involved in the sale of a variety of goods"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "ALL DRINKS CASH & CARRY LIMITED",
+  "number": "10267733",
+  "postcode": "UB2 5FB",
+  "town": "SOUTHALL",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "ALL SHIRES FOODS LIMITED",
+  "number": "05770688",
+  "postcode": "NG6 8YP",
+  "town": "NOTTINGHAM",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46330 - Wholesale of dairy products, eggs and edible oils and fats",
+   "46341 - Wholesale of fruit and vegetable juices, mineral water and soft drinks",
+   "46370 - Wholesale of coffee, tea, cocoa and spices"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "ALLIED METRO LTD",
+  "number": "SC573042",
+  "postcode": "G5 0BH",
+  "town": "GLASGOW",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46310 - Wholesale of fruit and vegetables",
+   "46900 - Non-specialised wholesale trade",
+   "47210 - Retail sale of fruit and vegetables in specialised stores",
+   "47990 - Other retail sale not in stores, stalls or markets"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "ANGLIA CULINARY SUPPLIERS LIMITED",
+  "number": "00955910",
+  "postcode": "NR6 6BY",
+  "town": "NORWICH",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "APPLETON & SONS LIMITED",
+  "number": "00568726",
+  "postcode": "E3 3ND",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "41100 - Development of building projects",
+   "46390 - Non-specialised wholesale of food, beverages and tobacco",
+   "68100 - Buying and selling of own real estate",
+   "68209 - Other letting and operating of own or leased real estate"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "AUTOMATIC RETAILING (HOLDINGS) LIMITED",
+  "number": "SC238585",
+  "postcode": "ML4 3NN",
+  "town": "BELLSHILL",
+  "status": "RECEIVERSHIP",
+  "category": "Private Limited Company",
+  "sic": [
+   "70100 - Activities of head offices"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "BABY BOTTLES (WHOLESALE) LIMITED",
+  "number": "02066649",
+  "postcode": "CV7 9NH",
+  "town": "EXHALL",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "BRI-TON FINE FOODS LIMITED",
+  "number": "01056729",
+  "postcode": "ST5 6BE",
+  "town": "APEDALE CHESTERTON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46380 - Wholesale of other food, including fish, crustaceans and molluscs"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "CAMELOT CHILLED FOODS LTD",
+  "number": "03319836",
+  "postcode": "RH11 7RY",
+  "town": "CRAWLEY",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46320 - Wholesale of meat and meat products",
+   "46330 - Wholesale of dairy products, eggs and edible oils and fats",
+   "46341 - Wholesale of fruit and vegetable juices, mineral water and soft drinks"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "CAVENDISH SHIPS STORES LIMITED",
+  "number": "01433354",
+  "postcode": "EC1A 9PS",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "CELLAR DRINKS COMPANY LTD",
+  "number": "02979611",
+  "postcode": "NP22 3AA",
+  "town": "TREDEGAR",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": [
+   "L H CELLAR SUPPLIES LIMITED"
+  ]
+ },
+ {
+  "name": "CHAMDOL UK LTD",
+  "number": "04066605",
+  "postcode": "WD6 4RN",
+  "town": "ELSTREE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "CHAMPERS (WHOLESALE) LIMITED",
+  "number": "08712600",
+  "postcode": "HA0 1HX",
+  "town": "WEMBLEY",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": [
+   "KSS DRINKS LIMITED"
+  ]
+ },
+ {
+  "name": "CHETAN WHOLESALERS LIMITED",
+  "number": "02037701",
+  "postcode": "IG3 9JX",
+  "town": "ILFORD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46170 - Agents involved in the sale of food, beverages and tobacco",
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "COBEV LIMITED",
+  "number": "06531935",
+  "postcode": "M3 3HF",
+  "town": "MANCHESTER",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages",
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": [
+   "AMISH WHOLESALERS LIMITED"
+  ]
+ },
+ {
+  "name": "COMPLETE MOBILE FOOD SERVICES LTD",
+  "number": "16081461",
+  "postcode": "N17 0QH",
+  "town": "TOTTENHAM, LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "56103 - Take-away food shops and mobile food stands"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "CPD DIRECT LIMITED",
+  "number": "09815447",
+  "postcode": "HU5 1SG",
+  "town": "HULL",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "64209 - Activities of other holding companies n.e.c."
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "CPT INTERNATIONAL (UK) LIMITED",
+  "number": "05464964",
+  "postcode": "B9 4NZ",
+  "town": "BIRMINGHAM",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46380 - Wholesale of other food, including fish, crustaceans and molluscs"
+  ],
+  "previous_names": [
+   "CPT INTERNATIONAL FROZEN LIMITED",
+   "CPT INTERNATIONAL (FROZEN) LIMITED"
+  ]
+ },
+ {
+  "name": "D D C FOODS LIMITED",
+  "number": "03662079",
+  "postcode": "HP2 7DE",
+  "town": "HEMEL HEMPSTEAD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46341 - Wholesale of fruit and vegetable juices, mineral water and soft drinks"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "DASCO (WHOLESALE) LIMITED",
+  "number": "02030378",
+  "postcode": "HA7 4JT",
+  "town": "MIDDLESEX",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46460 - Wholesale of pharmaceutical goods"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "DAVIS AND DANN LIMITED",
+  "number": "00842906",
+  "postcode": "HA4 0JQ",
+  "town": "SOUTH RUISLIP",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46460 - Wholesale of pharmaceutical goods"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "DAYLA LIMITED",
+  "number": "00384654",
+  "postcode": "HP22 5AH",
+  "town": "AYLESBURY",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "11070 - Manufacture of soft drinks; production of mineral waters and other bottled waters",
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "DC ABC LTD",
+  "number": "02872726",
+  "postcode": "TN38 8BG",
+  "town": "ST. LEONARDS ON SEA",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46341 - Wholesale of fruit and vegetable juices, mineral water and soft drinks",
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": [
+   "COLEMANS ABC LTD"
+  ]
+ },
+ {
+  "name": "DEAR BROTHERS CATERING LTD",
+  "number": "14187466",
+  "postcode": "CM1 3ET",
+  "town": "CHELMSFORD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "DECKERS TRADING LTD",
+  "number": "02188064",
+  "postcode": "OL11 3EX",
+  "town": "ROCHDALE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "10130 - Production of meat and poultry meat products",
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": [
+   "DECKERS RESTAURANTS LIMITED"
+  ]
+ },
+ {
+  "name": "DHAMECHA FOODS LIMITED",
+  "number": "01163739",
+  "postcode": "HA7 3NR",
+  "town": "MIDDLESEX",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages",
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "DIRECT LINE SUPPLIES LIMITED",
+  "number": "04203952",
+  "postcode": "TS17 9JY",
+  "town": "STOCKTON-ON-TEES",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "56290 - Other food services"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "DRINK WAREHOUSE UK LIMITED",
+  "number": "07166396",
+  "postcode": "CT12 5FE",
+  "town": "MINSTER",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "DRINKS WHOLESALE GROUP LTD",
+  "number": "01839722",
+  "postcode": "CR4 3HG",
+  "town": "MITCHAM",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages",
+   "47110 - Retail sale in non-specialised stores with food, beverages or tobacco predominating"
+  ],
+  "previous_names": [
+   "ELBROOK (CASH & CARRY) LIMITED"
+  ]
+ },
+ {
+  "name": "E.F.G. HOUSEWARES LIMITED",
+  "number": "03530578",
+  "postcode": "EN11 8LQ",
+  "town": "HODDESDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46440 - Wholesale of china and glassware and cleaning materials"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "EAST 'N' WEST CASH & CARRY LIMITED",
+  "number": "05738033",
+  "postcode": "IG11 0DG",
+  "town": "BARKING",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "EDEN FARM LIMITED",
+  "number": "00820872",
+  "postcode": "NE29 7XJ",
+  "town": "NORTH SHIELDS",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "56290 - Other food services"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "EDWARDS BEERS AND WINE SUPPLIES LTD",
+  "number": "07090162",
+  "postcode": "LU7 4SE",
+  "town": "LEIGHTON BUZZARD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "ELM VALLEY FOODS LIMITED",
+  "number": "09107043",
+  "postcode": "IP30 9HN",
+  "town": "ELMSWELL",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": [
+   "CHEVIOT 111 LIMITED"
+  ]
+ },
+ {
+  "name": "EMREGAS WHOLESALERS LTD",
+  "number": "08715224",
+  "postcode": "CR4 3HG",
+  "town": "MITCHAM",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46499 - Wholesale of household goods (other than musical instruments) n.e.c."
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "EURO GLOBE DISTRIBUTORS LIMITED",
+  "number": "04397293",
+  "postcode": "RM6 5NF",
+  "town": "ROMFORD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46341 - Wholesale of fruit and vegetable juices, mineral water and soft drinks"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "EURO WINES (C & C) LIMITED",
+  "number": "06149110",
+  "postcode": "SE8 3DZ",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages",
+   "46390 - Non-specialised wholesale of food, beverages and tobacco",
+   "47110 - Retail sale in non-specialised stores with food, beverages or tobacco predominating"
+  ],
+  "previous_names": [
+   "DRINK STORES LIMITED"
+  ]
+ },
+ {
+  "name": "EWOOD FOODS HOLDINGS LTD",
+  "number": "16121280",
+  "postcode": "BB5 6NT",
+  "town": "ACCRINGTON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "64209 - Activities of other holding companies n.e.c."
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "EXPRESS FOODSERVICE (NI) LIMITED",
+  "number": "NI606097",
+  "postcode": "BT48 0LU",
+  "town": "LONDONDERRY",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "EXTRA CASH & CARRY LIMITED",
+  "number": "10647237",
+  "postcode": "N17 0YD",
+  "town": "TOTTENHAM",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": [
+   "BEST CASH & CARRY LIMITED",
+   "KIRAL CASH & CARRY LIMITED"
+  ]
+ },
+ {
+  "name": "FAMOUS BRAND WHOLESALE LTD",
+  "number": "09228626",
+  "postcode": "L39 2AY",
+  "town": "ORMSKIRK",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46190 - Agents involved in the sale of a variety of goods",
+   "46341 - Wholesale of fruit and vegetable juices, mineral water and soft drinks"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "FELVILLE INVESTMENT CO. LIMITED",
+  "number": "00719605",
+  "postcode": "HA0 1QG",
+  "town": "WEMBLEY",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "FOOD OPTIONS UK LIMITED",
+  "number": "SC230289",
+  "postcode": "EH53 0TN",
+  "town": "LIVINGSTON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46320 - Wholesale of meat and meat products",
+   "46330 - Wholesale of dairy products, eggs and edible oils and fats",
+   "46380 - Wholesale of other food, including fish, crustaceans and molluscs"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "FOOD STORE INTERNATIONAL LIMITED",
+  "number": "03571906",
+  "postcode": "B3 1PX",
+  "town": "BIRMINGHAM",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46190 - Agents involved in the sale of a variety of goods"
+  ],
+  "previous_names": [
+   "FOODSTORE INTERNATIONAL LIMITED"
+  ]
+ },
+ {
+  "name": "FOODS OF EUROPE LIMITED",
+  "number": "04835259",
+  "postcode": "GU35 9QF",
+  "town": "BORDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "70100 - Activities of head offices"
+  ],
+  "previous_names": [
+   "FOODS OF EUROPE HOLDINGS LIMITED"
+  ]
+ },
+ {
+  "name": "FREEMANS EVENT PARTNERS GROUP LIMITED",
+  "number": "15184748",
+  "postcode": "GL2 2RN",
+  "town": "HARDWICKE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "64209 - Activities of other holding companies n.e.c."
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "FRIAR'S PRIDE LIMITED",
+  "number": "01213037",
+  "postcode": "PE1 5YW",
+  "town": "OXNEY ROAD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "G & G GALLO ENTERPRISES LIMITED",
+  "number": "03039239",
+  "postcode": "CM77 7AA",
+  "town": "BRAINTREE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "G.W. FIELDS & SONS (GREAT YARMOUTH) LIMITED",
+  "number": "01211521",
+  "postcode": "NR7 9BB",
+  "town": "NORWICH",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46320 - Wholesale of meat and meat products",
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages",
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "GANDHI ORIENTAL FOODS LIMITED",
+  "number": "01034090",
+  "postcode": "N12 8NP",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "GAP CONVENIENCE DISTRIBUTION LIMITED",
+  "number": "01255928",
+  "postcode": "PR2 5QT",
+  "town": "PRESTON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": [
+   "S.J. SUPERMARKETS LIMITED"
+  ]
+ },
+ {
+  "name": "GEORGE TWIST (WHOLESALE) LIMITED",
+  "number": "01165479",
+  "postcode": "WN5 8DH",
+  "town": "PEMBERTON WIGAN",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46460 - Wholesale of pharmaceutical goods"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "GLOBAL FOODS LIMITED",
+  "number": "01580862",
+  "postcode": "CF11 8TS",
+  "town": "CARDIFF",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "GMH TRADING LIMITED",
+  "number": "03075296",
+  "postcode": "NW2 2AD",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "GOODWIN'S HARDWARE WHOLESALERS (LONDON) LIMITED",
+  "number": "03683408",
+  "postcode": "TW16 7HB",
+  "town": "MIDDLESEX",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "96090 - Other service activities n.e.c."
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "H B CLARK HOLDINGS LIMITED",
+  "number": "10434640",
+  "postcode": "NE29 7XJ",
+  "town": "NORTH SHIELDS",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "64209 - Activities of other holding companies n.e.c."
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "H.N.NUTTALL LIMITED",
+  "number": "00362138",
+  "postcode": "SK14 4LF",
+  "town": "CHESHIRE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "56290 - Other food services"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "HANCOCKS HOLDINGS LIMITED",
+  "number": "02884267",
+  "postcode": "LE11 5TX",
+  "town": "LEICESTERSHIRE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "70100 - Activities of head offices"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "HENRY COLBECK LIMITED",
+  "number": "00822749",
+  "postcode": "NE11 0HG",
+  "town": "GATESHEAD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "HOLLAND BAZAAR LIMITED",
+  "number": "04577156",
+  "postcode": "SE11 5QU",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46310 - Wholesale of fruit and vegetables"
+  ],
+  "previous_names": [
+   "FRUIT DENIZ LIMITED"
+  ]
+ },
+ {
+  "name": "HOME HARDWARE (SCOTLAND) LIMITED",
+  "number": "SC121685",
+  "postcode": "KA22 7GQ",
+  "town": "ARDROSSAN",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46740 - Wholesale of hardware, plumbing and heating equipment and supplies"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "HOME HARDWARE SOUTHWEST LIMITED",
+  "number": "00716921",
+  "postcode": "EX31 1NZ",
+  "town": "BARNSTAPLE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46440 - Wholesale of china and glassware and cleaning materials",
+   "46499 - Wholesale of household goods (other than musical instruments) n.e.c.",
+   "46740 - Wholesale of hardware, plumbing and heating equipment and supplies",
+   "94110 - Activities of business and employers membership organizations"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "HOPS AND BARLEY LIMITED",
+  "number": "02633943",
+  "postcode": "L6 5AT",
+  "town": "MERSEYSIDE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": [
+   "BEERSCELLARS (UK) LIMITED"
+  ]
+ },
+ {
+  "name": "IA DISTRIBUTION LIMITED",
+  "number": "05869168",
+  "postcode": "N21 3QH",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco",
+   "46499 - Wholesale of household goods (other than musical instruments) n.e.c."
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "IMPERIAL CASH & CARRY LIMITED",
+  "number": "02137946",
+  "postcode": "N18 3BB",
+  "town": "EDMONTON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "INDUS FOODS LIMITED",
+  "number": "02430421",
+  "postcode": "B11 1BH",
+  "town": "BIRMINGHAM",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco",
+   "47110 - Retail sale in non-specialised stores with food, beverages or tobacco predominating"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "INN EXPRESS LIMITED",
+  "number": "04325478",
+  "postcode": "CV32 4EA",
+  "town": "LEAMINGTON SPA",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "82990 - Other business support service activities n.e.c."
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "INSPIRA TRADING LIMITED",
+  "number": "06805167",
+  "postcode": "SG15 6SG",
+  "town": "ARLESEY",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46499 - Wholesale of household goods (other than musical instruments) n.e.c."
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "ISLAND ALES LIMITED",
+  "number": "02802766",
+  "postcode": "PO30 1LH",
+  "town": "ISLE OF WIGHT",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "J & C HOWARTH (WHOLESALE) LIMITED",
+  "number": "01930783",
+  "postcode": "S81 7DL",
+  "town": "WORKSOP",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "J. KELLETT FOODS LIMITED",
+  "number": "05096344",
+  "postcode": "LS27 0HW",
+  "town": "LEEDS",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46170 - Agents involved in the sale of food, beverages and tobacco",
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "J.W. FILSHILL LIMITED",
+  "number": "SC019246",
+  "postcode": "PA4 8DJ",
+  "town": "RENFREW",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "J.W.G. LIMITED",
+  "number": "SC088858",
+  "postcode": "ZE1 0PX",
+  "town": "ISLE OF SHETLAND",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages",
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "JAMES WILSON (ORKNEY) LIMITED",
+  "number": "SC165248",
+  "postcode": "KW16 3AF",
+  "town": "STROMNESS",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "JJ FOOD SERVICE LIMITED",
+  "number": "02330996",
+  "postcode": "EN3 7XY",
+  "town": "ENFIELD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "JK FOODS (1976) LIMITED",
+  "number": "17176922",
+  "postcode": "NG7 2UT",
+  "town": "NOTTINGHAM",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "JOHN MOWER & CO,LIMITED",
+  "number": "00619539",
+  "postcode": "EN11 0LA",
+  "town": "HODDESON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "JOHN TULLOCH (SHETLAND PRODUCTS) LIMITED",
+  "number": "SC026382",
+  "postcode": "ZE1 0PX",
+  "town": "SHETLAND",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "JOSEPH KEEGAN & SONS LIMITED",
+  "number": "00466229",
+  "postcode": "M24 1SW",
+  "town": "MANCHESTER",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "KCS CASH & CARRY LTD",
+  "number": "07154836",
+  "postcode": "UB3 3BL",
+  "town": "HAYES",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco",
+   "46420 - Wholesale of clothing and footwear",
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": [
+   "KRASCEVA LIMITED"
+  ]
+ },
+ {
+  "name": "KD WHOLESALE CASH & CARRY LTD",
+  "number": "11866405",
+  "postcode": "WD24 7GP",
+  "town": "WATFORD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46190 - Agents involved in the sale of a variety of goods"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "KELLY HUNTER TRADING LIMITED",
+  "number": "NI604195",
+  "postcode": "BT1 9DY",
+  "town": "BELFAST",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46190 - Agents involved in the sale of a variety of goods"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "KHANJRA INTERNATIONAL FOODS LIMITED",
+  "number": "02707869",
+  "postcode": "BB1 3HU",
+  "town": "BLACKBURN",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "L. & S. MIDDLETON LIMITED",
+  "number": "01331325",
+  "postcode": "WV13 3LH",
+  "town": "WILLENHALL",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "LIBRA DRINKS WHOLESALE LIMITED",
+  "number": "05477707",
+  "postcode": "B30 3JN",
+  "town": "BIRMINGHAM",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "LION CATERING LIMITED",
+  "number": "11393929",
+  "postcode": "BH17 0GG",
+  "town": "POOLE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "LIONCROFT WHOLESALE LIMITED",
+  "number": "12363134",
+  "postcode": "B6 5AD",
+  "town": "BIRMINGHAM",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": [
+   "COLOUR NEWCO LIMITED"
+  ]
+ },
+ {
+  "name": "LOMOND LIMITED",
+  "number": "15808746",
+  "postcode": "N16 5LG",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "68209 - Other letting and operating of own or leased real estate"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "LOON FUNG LIMITED",
+  "number": "01753513",
+  "postcode": "N17 0DX",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46380 - Wholesale of other food, including fish, crustaceans and molluscs",
+   "47290 - Other retail sale of food in specialised stores"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "LUBNA FOODS LIMITED",
+  "number": "01208669",
+  "postcode": "BD3 9HB",
+  "town": "",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "LUXURIOUS PERSONAL CARE LTD",
+  "number": "11834000",
+  "postcode": "EN11 8LQ",
+  "town": "HODDESDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "17220 - Manufacture of household and sanitary goods and of toilet requisites",
+   "20420 - Manufacture of perfumes and toilet preparations",
+   "46450 - Wholesale of perfume and cosmetics",
+   "47750 - Retail sale of cosmetic and toilet articles in specialised stores"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "LWC DRINKS LIMITED",
+  "number": "07677007",
+  "postcode": "M24 1SW",
+  "town": "MANCHESTER",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": [
+   "LICENSED WHOLESALE COMPANY TRADING LIMITED",
+   "HS 540 LIMITED"
+  ]
+ },
+ {
+  "name": "LYNTON EXPORTS (ALSAGER) LIMITED",
+  "number": "01440003",
+  "postcode": "ST7 2LU",
+  "town": "STOKE ON TRENT",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "M. & G. HOOPER LIMITED",
+  "number": "00677963",
+  "postcode": "NG7 7HS",
+  "town": "NOTTINGHAM",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "M.& M.VALUE LIMITED",
+  "number": "00652976",
+  "postcode": "NE29 7XJ",
+  "town": "NORTH SHIELDS",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages",
+   "46350 - Wholesale of tobacco products",
+   "46360 - Wholesale of sugar and chocolate and sugar confectionery"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "M.J. BAKER FOODSERVICE LIMITED",
+  "number": "03672718",
+  "postcode": "NE29 7XJ",
+  "town": "NORTH SHIELDS",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "56290 - Other food services"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "MAISON MAURICE LIMITED",
+  "number": "01295119",
+  "postcode": "DA11 9BL",
+  "town": "GRAVESEND",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "MCCARTNEY FOOD SERVICE LIMITED",
+  "number": "08410159",
+  "postcode": "PE22 0NX",
+  "town": "BOSTON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46320 - Wholesale of meat and meat products"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "MERLIN FOOD SERVICE LIMITED",
+  "number": "10853683",
+  "postcode": "PR4 3FZ",
+  "town": "PRESTON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "MICHAEL I HOLDSWORTH LIMITED",
+  "number": "02027459",
+  "postcode": "SK17 8LN",
+  "town": "DERBYSHIRE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "MILLENNIUM CASH & CARRY LIMITED",
+  "number": "03890320",
+  "postcode": "IG2 6HY",
+  "town": "ILFORD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "MRS. J.C. ALTHAM & SONS (LANCASTER) LIMITED",
+  "number": "00842815",
+  "postcode": "LA3 2UZ",
+  "town": "HEYSHAM",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46190 - Agents involved in the sale of a variety of goods"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "MUSGRAVE HOLDINGS LIMITED",
+  "number": "05713938",
+  "postcode": "B64 5QN",
+  "town": "CRADLEY HEATH",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "70100 - Activities of head offices",
+   "70229 - Management consultancy activities other than financial management"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "NARANG WHOLESALERS LIMITED",
+  "number": "03083607",
+  "postcode": "BD8 8JR",
+  "town": "WEST YORKSHIRE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages",
+   "46740 - Wholesale of hardware, plumbing and heating equipment and supplies"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "NORTH WEST TEA SERVICE LIMITED",
+  "number": "04719044",
+  "postcode": "L36 6HY",
+  "town": "HUYTON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46170 - Agents involved in the sale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "OLIVE GROUP LIMITED",
+  "number": "16001551",
+  "postcode": "N5 1RH",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "70100 - Activities of head offices"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "OOBERSTOCK LIMITED",
+  "number": "07302362",
+  "postcode": "DA2 6QD",
+  "town": "DARTFORD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46341 - Wholesale of fruit and vegetable juices, mineral water and soft drinks",
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "PARKERS FOODSERVICE LTD",
+  "number": "10507394",
+  "postcode": "BN18 0BF",
+  "town": "ARUNDEL",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46380 - Wholesale of other food, including fish, crustaceans and molluscs"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "PARKVIEW PROVISIONS LIMITED",
+  "number": "NI058012",
+  "postcode": "BT3 9JG",
+  "town": "BELFAST",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "10110 - Processing and preserving of meat"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "PELAM FOODS LIMITED",
+  "number": "02405449",
+  "postcode": "HP6 6DE",
+  "town": "AMERSHAM",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46170 - Agents involved in the sale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "PREMIER EXPORTS LONDON LTD",
+  "number": "07461227",
+  "postcode": "LU1 1FW",
+  "town": "LUTON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "PREMIER QUALITY FOODS LIMITED",
+  "number": "03916724",
+  "postcode": "WF9 5JB",
+  "town": "WEST YORKSHIRE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "56290 - Other food services"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "PRIMO DRINKS LTD",
+  "number": "04824074",
+  "postcode": "SK6 2ST",
+  "town": "STOCKPORT",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": [
+   "PRIMO DRINKS (GREATER MANCHESTER) LTD",
+   "SAME DAY BEERS (MANCHESTER) LIMITED",
+   "THE NATIONWIDE OUTSIDE BAR COMPANY LIMITED"
+  ]
+ },
+ {
+  "name": "QMOVER MFS LTD",
+  "number": "12968664",
+  "postcode": "DE13 8EJ",
+  "town": "BARTON UNDER NEEDWOOD",
+  "status": "In Administration",
+  "category": "Private Limited Company",
+  "sic": [
+   "46310 - Wholesale of fruit and vegetables",
+   "46320 - Wholesale of meat and meat products",
+   "46380 - Wholesale of other food, including fish, crustaceans and molluscs"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "R. DUCKWORTH (WHOLESALE) LTD",
+  "number": "09431448",
+  "postcode": "FY4 4QJ",
+  "town": "BLACKPOOL",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "R.D. JOHNS LIMITED",
+  "number": "02007345",
+  "postcode": "TQ12 3GP",
+  "town": "NEWTON ABBOT",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46310 - Wholesale of fruit and vegetables",
+   "46320 - Wholesale of meat and meat products",
+   "46330 - Wholesale of dairy products, eggs and edible oils and fats",
+   "46380 - Wholesale of other food, including fish, crustaceans and molluscs"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "REGAL WHOLESALE LIMITED",
+  "number": "02381169",
+  "postcode": "CH62 3RQ",
+  "town": "WIRRAL",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "REYNOLDS CATERING SUPPLIES LIMITED",
+  "number": "02955734",
+  "postcode": "EN8 7RQ",
+  "town": "WALTHAM CROSS",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46310 - Wholesale of fruit and vegetables"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "RIGHTWAY WHOLESALE LIMITED",
+  "number": "SC141024",
+  "postcode": "G42 0PT",
+  "town": "GLASGOW",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "ROWAN INTERNATIONAL LIMITED",
+  "number": "02477215",
+  "postcode": "SS14 3WF",
+  "town": "BASILDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "S D RAMSDEN & CO LIMITED",
+  "number": "07902211",
+  "postcode": "DN31 1SJ",
+  "town": "GRIMSBY",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": [
+   "WILCHAP 30 (GY) LIMITED"
+  ]
+ },
+ {
+  "name": "S J BERISFORD LIMITED",
+  "number": "04615041",
+  "postcode": "EX10 0HP",
+  "town": "SIDMOUTH",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46320 - Wholesale of meat and meat products",
+   "46330 - Wholesale of dairy products, eggs and edible oils and fats",
+   "46380 - Wholesale of other food, including fish, crustaceans and molluscs"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "S S CONVENIENCE DISTRIBUTION LIMITED",
+  "number": "05722257",
+  "postcode": "HA9 0YJ",
+  "town": "WEMBLEY",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "SAVAGE & WHITTEN WHOLESALE LTD",
+  "number": "NI038618",
+  "postcode": "BT35 6FY",
+  "town": "NEWRY",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46170 - Agents involved in the sale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "SEPHRA EUROPE LIMITED",
+  "number": "06367675",
+  "postcode": "EC1V 2NX",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": [
+   "LAWGRA (NO. 1336) LIMITED"
+  ]
+ },
+ {
+  "name": "SK FOOD AND DRINKS LIMITED",
+  "number": "07808064",
+  "postcode": "B47 6AJ",
+  "town": "BIRMINGHAM",
+  "status": "In Administration",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": [
+   "SK CASH AND CARRY LIMITED",
+   "VALUE WHOLESALE LIMITED"
+  ]
+ },
+ {
+  "name": "SMALL BEER LIMITED",
+  "number": "02531835",
+  "postcode": "LN4 2FF",
+  "town": "LINCOLN",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages",
+   "47250 - Retail sale of beverages in specialised stores"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "SMYLIE LIMITED",
+  "number": "04835647",
+  "postcode": "CH62 3RR",
+  "town": "BROMBOROUGH",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46190 - Agents involved in the sale of a variety of goods"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "SOHO CASH & CARRY LIMITED",
+  "number": "03907870",
+  "postcode": "B66 1QG",
+  "town": "SMETHWICK",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46170 - Agents involved in the sale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "SOUTH EASTERN FOODS LIMITED",
+  "number": "02112285",
+  "postcode": "TN23 6LL",
+  "town": "ASHFORD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "SPINNEYS SOURCING LIMITED",
+  "number": "02027942",
+  "postcode": "TW15 1AX",
+  "town": "ASHFORD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46310 - Wholesale of fruit and vegetables",
+   "46320 - Wholesale of meat and meat products",
+   "46330 - Wholesale of dairy products, eggs and edible oils and fats",
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": [
+   "J.H.F. LIMITED"
+  ]
+ },
+ {
+  "name": "SQUIRRELS UK LIMITED",
+  "number": "06195699",
+  "postcode": "NE29 7XJ",
+  "town": "NORTH SHIELDS",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "82990 - Other business support service activities n.e.c."
+  ],
+  "previous_names": [
+   "DARTEX LIMITED"
+  ]
+ },
+ {
+  "name": "STAR CATERING SUPPLIES LIMITED",
+  "number": "02839246",
+  "postcode": "EN3 7UD",
+  "town": "ENFIELD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "STAX TRADE CENTRES LIMITED",
+  "number": "02235950",
+  "postcode": "M28 2LA",
+  "town": "WORSLEY",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "SUN MARK LIMITED",
+  "number": "03010238",
+  "postcode": "UB6 8UH",
+  "town": "GREENFORD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages",
+   "46390 - Non-specialised wholesale of food, beverages and tobacco",
+   "47910 - Retail sale via mail order houses or via Internet"
+  ],
+  "previous_names": [
+   "SUN OIL LIMITED"
+  ]
+ },
+ {
+  "name": "SUTHERLAND BROTHERS LIMITED",
+  "number": "SC090161",
+  "postcode": "KW1 4QS",
+  "town": "WICK",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "SWALLOW DRINKS LIMITED",
+  "number": "12794789",
+  "postcode": "LE1 6EH",
+  "town": "LEICESTER",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46341 - Wholesale of fruit and vegetable juices, mineral water and soft drinks",
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "T. QUALITY LIMITED",
+  "number": "00437914",
+  "postcode": "DN5 9TL",
+  "town": "DONCASTER",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46380 - Wholesale of other food, including fish, crustaceans and molluscs",
+   "46390 - Non-specialised wholesale of food, beverages and tobacco",
+   "46760 - Wholesale of other intermediate products"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "TATE-SMITH LIMITED",
+  "number": "00653307",
+  "postcode": "YO17 7EE",
+  "town": "MALTON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46341 - Wholesale of fruit and vegetable juices, mineral water and soft drinks",
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "TEMPLE WINES (CASH & CARRY) LIMITED",
+  "number": "02649717",
+  "postcode": "NW9 8UA",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46341 - Wholesale of fruit and vegetable juices, mineral water and soft drinks",
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages",
+   "46350 - Wholesale of tobacco products"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "THAMES WHOLESALERS LTD",
+  "number": "13208556",
+  "postcode": "CR0 4YL",
+  "town": "CROYDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco",
+   "47110 - Retail sale in non-specialised stores with food, beverages or tobacco predominating",
+   "70229 - Management consultancy activities other than financial management"
+  ],
+  "previous_names": [
+   "CONSTANCE RETAIL LTD"
+  ]
+ },
+ {
+  "name": "THE MONTINE FOOD COMPANY LIMITED",
+  "number": "08956058",
+  "postcode": "SS1 1BD",
+  "town": "SOUTHEND-ON-SEA",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "82990 - Other business support service activities n.e.c."
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "THE WILLIAMSON GROUP LIMITED",
+  "number": "SC032547",
+  "postcode": "IV1 1TD",
+  "town": "",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46310 - Wholesale of fruit and vegetables"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "THOMPSONS FOOD SERVICE LTD",
+  "number": "07107278",
+  "postcode": "NR30 3PR",
+  "town": "GREAT YARMOUTH",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46310 - Wholesale of fruit and vegetables",
+   "46320 - Wholesale of meat and meat products",
+   "46330 - Wholesale of dairy products, eggs and edible oils and fats"
+  ],
+  "previous_names": [
+   "EDDIE THOMPSON POULTRY LTD",
+   "IGNIS DEVELOPMENTS LIMITED"
+  ]
+ },
+ {
+  "name": "THOMSONS UK LIMITED",
+  "number": "SC214778",
+  "postcode": "IV1 1QA",
+  "town": "INVERNESS",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "41100 - Development of building projects",
+   "56102 - Unlicensed restaurants and cafes",
+   "70229 - Management consultancy activities other than financial management"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "TOLCHARDS LIMITED",
+  "number": "07027762",
+  "postcode": "TQ2 7AX",
+  "town": "TORQUAY",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": [
+   "JCM INVESTMENTS LIMITED"
+  ]
+ },
+ {
+  "name": "TOP-OP (FOODS) LIMITED",
+  "number": "01246241",
+  "postcode": "HA7 1QU",
+  "town": "MIDDX",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "TRADE WINDS LIVERPOOL LTD",
+  "number": "13780686",
+  "postcode": "CH64 5TJ",
+  "town": "NESTON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46360 - Wholesale of sugar and chocolate and sugar confectionery"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "TURNER & WRIGHTS LIMITED",
+  "number": "03214004",
+  "postcode": "NE29 7XJ",
+  "town": "NORTH SHIELDS",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46360 - Wholesale of sugar and chocolate and sugar confectionery"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "TYNESIDE FOODSERVICE LIMITED",
+  "number": "01449972",
+  "postcode": "NE21 5SD",
+  "town": "BLAYDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "UNITED WHOLESALE (SCOTLAND) LIMITED",
+  "number": "SC224822",
+  "postcode": "G33 4UL",
+  "town": "GLASGOW",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "UNITED WHOLESALE GROCERS LIMITED",
+  "number": "SC080027",
+  "postcode": "G21 4BY",
+  "town": "GLASGOW",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages",
+   "46350 - Wholesale of tobacco products",
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "UNIVERSAL PRODUCT SOLUTIONS LIMITED",
+  "number": "10949730",
+  "postcode": "PR2 5PH",
+  "town": "PRESTON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco",
+   "47910 - Retail sale via mail order houses or via Internet"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "V. B. & SONS (TRADING) LIMITED",
+  "number": "04368313",
+  "postcode": "HA0 1UR",
+  "town": "WEMBLEY",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "99999 - Dormant Company"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "V.A. WHITLEY & CO. LIMITED",
+  "number": "00474394",
+  "postcode": "OL10 1NW",
+  "town": "HEYWOOD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46320 - Wholesale of meat and meat products",
+   "46330 - Wholesale of dairy products, eggs and edible oils and fats",
+   "46341 - Wholesale of fruit and vegetable juices, mineral water and soft drinks",
+   "46380 - Wholesale of other food, including fish, crustaceans and molluscs"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "VALLEY FOODS LTD",
+  "number": "NI741398",
+  "postcode": "BT78 2AE",
+  "town": "OMAGH",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "VENUS WINE & SPIRIT MERCHANTS LIMITED",
+  "number": "05689256",
+  "postcode": "NN8 1LT",
+  "town": "WELLINGBOROUGH",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "W. WING YIP & BROTHERS TRADING GROUP LIMITED",
+  "number": "03985372",
+  "postcode": "B7 5NT",
+  "town": "WEST MIDLANDS",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "70100 - Activities of head offices"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "WANIS INTERNATIONAL FOODS LIMITED",
+  "number": "12935745",
+  "postcode": "E11 1GA",
+  "town": "LEYTONSTONE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "WATERSIDE FOOD SERVICES LIMITED",
+  "number": "09556386",
+  "postcode": "DE14 3HD",
+  "town": "BURTON-ON-TRENT",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46330 - Wholesale of dairy products, eggs and edible oils and fats",
+   "46341 - Wholesale of fruit and vegetable juices, mineral water and soft drinks",
+   "46370 - Wholesale of coffee, tea, cocoa and spices"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "WELCH AND TIDY LIMITED",
+  "number": "04450710",
+  "postcode": "UB6 7JD",
+  "town": "GREENFORD",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46499 - Wholesale of household goods (other than musical instruments) n.e.c."
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "WESTCOUNTRY FRUIT SALES LIMITED",
+  "number": "00980586",
+  "postcode": "NE29 7XJ",
+  "town": "NORTH SHIELDS",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46310 - Wholesale of fruit and vegetables"
+  ],
+  "previous_names": [
+   "WEST COUNTRY FRUIT SALES LIMITED"
+  ]
+ },
+ {
+  "name": "WESTONE WHOLESALE LIMITED",
+  "number": "01718211",
+  "postcode": "NE29 7XJ",
+  "town": "NORTH SHIELDS",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46360 - Wholesale of sugar and chocolate and sugar confectionery"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "WIGAN BEER COMPANY LIMITED",
+  "number": "02945477",
+  "postcode": "M24 1SW",
+  "town": "MANCHESTER",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "WILD LEISURE LTD",
+  "number": "16429119",
+  "postcode": "HG5 0UF",
+  "town": "KNARESBOROUGH",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "99999 - Dormant Company"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "WILLIAM YULE & SON LIMITED",
+  "number": "SC031736",
+  "postcode": "KY1 3ER",
+  "town": "",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46390 - Non-specialised wholesale of food, beverages and tobacco"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "WISE TRADING LIMITED",
+  "number": "02328215",
+  "postcode": "HA4 0HN",
+  "town": "SOUTH RUISLIP",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "WORLD LINK WHOLESALE LTD",
+  "number": "12416670",
+  "postcode": "N1 7GU",
+  "town": "LONDON",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46499 - Wholesale of household goods (other than musical instruments) n.e.c.",
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "WOWBOXME LIMITED",
+  "number": "10217721",
+  "postcode": "LU7 3RE",
+  "town": "LEIGHTON BUZZARD",
+  "status": "Voluntary Arrangement",
+  "category": "Private Limited Company",
+  "sic": [
+   "47910 - Retail sale via mail order houses or via Internet"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "Y & C WHOLESALE LIMITED",
+  "number": "07247693",
+  "postcode": "HA8 8JL",
+  "town": "EDGWARE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages",
+   "46380 - Wholesale of other food, including fish, crustaceans and molluscs",
+   "46499 - Wholesale of household goods (other than musical instruments) n.e.c."
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "Y INTERNATIONAL (UK) LIMITED",
+  "number": "08164771",
+  "postcode": "B6 7LG",
+  "town": "BIRMINGHAM",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46900 - Non-specialised wholesale trade"
+  ],
+  "previous_names": []
+ },
+ {
+  "name": "YOUNG'S BEERS WINES & SPIRITS LTD",
+  "number": "07080926",
+  "postcode": "OL11 3EX",
+  "town": "ROCHDALE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46342 - Wholesale of wine, beer, spirits and other alcoholic beverages"
+  ],
+  "previous_names": [
+   "STEPHENSONS WHOLESALE LTD"
+  ]
+ },
+ {
+  "name": "YOUNGS FOODS LIMITED",
+  "number": "03829426",
+  "postcode": "HU3 4EL",
+  "town": "HULL",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "46380 - Wholesale of other food, including fish, crustaceans and molluscs"
+  ],
+  "previous_names": [
+   "YOUNGS (HULL) LIMITED"
+  ]
+ },
+ {
+  "name": "ZEPBROOK LIMITED",
+  "number": "01610642",
+  "postcode": "TN8 5LD",
+  "town": "EDENBRIDGE",
+  "status": "Active",
+  "category": "Private Limited Company",
+  "sic": [
+   "56290 - Other food services"
+  ],
+  "previous_names": []
+ }
+]

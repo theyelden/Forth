@@ -1,0 +1,4331 @@
+[
+ {
+  "group": "Unitas Wholesale",
+  "member": "A F Blakemore & Sons Ltd",
+  "trading_names": [
+   "A F Blakemore & Sons Ltd (Apex II)",
+   "A F Blakemore & Sons Ltd (Bedford)",
+   "A F Blakemore & Sons Ltd (Head Office)",
+   "A F Blakemore & Sons Ltd (Wakefield)",
+   "A F Blakemore & Sons Ltd (Wednesbury 2)",
+   "A F Blakemore & Sons Ltd Fresh Foods"
+  ],
+  "parent": "",
+  "postcodes": [
+   "DY4 0PU",
+   "MK41 7BJ",
+   "WV13 2JP",
+   "LS26 8ZA",
+   "WS10 9UZ",
+   "WV10 7QZ"
+  ],
+  "addresses": [
+   "Apex II, Golds Way, Great Bridge, West Midlands, DY4 0PU",
+   "Manton Industrial Estate, Bedford, MK41 7BJ",
+   "Block F, Long Acres Industrial Estate, Rosehill, Willenhall, West Midlands, WV13 2JP",
+   "Unit 3 Premier Park, Leeds Road, Wakefield, West Yorkshire, LS26 8ZA",
+   "Steelmans Road, Darlaston, Wednesbury, WS10 9UZ",
+   "Cannock Road, Featherstone Wolverhampton, South Staffordshire, WV10 7QZ"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/2/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "A G Parfett & Sons Ltd",
+  "trading_names": [
+   "A G Parfett & Sons Ltd (Aintree)",
+   "A G Parfett & Sons Ltd (Anfield)",
+   "A G Parfett & Sons Ltd (Birmingham)",
+   "A G Parfett & Sons Ltd (Halifax)",
+   "A G Parfett & Sons Ltd (Middlesbrough)",
+   "A G Parfett & Sons Ltd (Sheffield)",
+   "A G Parfett & Sons Ltd (Sommercote)",
+   "A G Parfett & Sons Ltd (Stockport)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "L9 5AL",
+   "L6 5BN",
+   "HX3 6RA",
+   "TS3 8AL",
+   "S9 1XT",
+   "DE55 4RF",
+   "SK4 2JP",
+   "B11 2BH"
+  ],
+  "addresses": [
+   "Unit 7, Valentines Building, Topham Drive, Aintree Racecourse Retail & Business Park, Aintree, Liverpool, L9 5AL",
+   "Larch Lea Industrial Estate, Off Belmont Road, Liverpool, L6 5BN",
+   "Shay Lane, Holmfield, Halifax, HX3 6RA",
+   "Cargo Fleet Lane, Middlesbrough, Cleveland, TS3 8AL",
+   "Europa Drive, Shepcote Business Park, Sheffield, S9 1XT",
+   "Clover Nook Road, Cotes Park Industrial Estate, Somercotes, Derbyshire, DE55 4RF",
+   "Didsbury Road, Heaton Norris, Stockport, Cheshire, SK4 2JP",
+   "Redfern Road, Tyseley, Birmingham, B11 2BH"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/2/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/3/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "ABV Wholesale",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BD22 6BN"
+  ],
+  "addresses": [
+   "Unit 4, Holme Mill Industrial Estate, Holme Mill Lane, Keighley, West Yorkshire, BD22 6BN"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/3/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Agrimark Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "IM2 2QR"
+  ],
+  "addresses": [
+   "Unit 1, Spring Valley Trading Estate, Cooil Road, Braddan, IM2 2QR"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/4/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "AJ Wholesale Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BB1 1RN"
+  ],
+  "addresses": [
+   "AJ Buildings, Dickens Street, Blackburn, BB1 1RN"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/4/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Albion Fine Foods",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "DA2 6QB"
+  ],
+  "addresses": [
+   "2 Crossways Commercial Park, Dartford, DA2 6QB"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/4/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Alfa Wholesale Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "G3 8HZ"
+  ],
+  "addresses": [
+   "111 Lancefield Street, Glasgow, G3 8HZ, Contact: Zahid Hussain"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/4/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "All Drinks Cash & Carry",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "UB2 5NS",
+   "CR0 3JP"
+  ],
+  "addresses": [
+   "North Hyde House, North Hyde Wharf, Hayes Road, Southall, UB2 5NS",
+   "Unit 2, 40-44 Purley Way, Croydon, CR0 3JP"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/4/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/5/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Anglia Culinary Suppliers Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "NR6 6BY"
+  ],
+  "addresses": [
+   "Spar Road, Vulcan Road Ind Estate, Norwich, NR6 6BY"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/5/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Appleton & Sons Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "E3 3ND"
+  ],
+  "addresses": [
+   "17 Towcester Road, Bow, London, E3 3ND"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/5/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Automatic Retailing",
+  "trading_names": [
+   "Automatic Retailing (Kitwave Wholesale Group)"
+  ],
+  "parent": "Kitwave Group plc",
+  "postcodes": [
+   "NE29 7XJ"
+  ],
+  "addresses": [
+   "Unit S3, Narvik Way, Tyne Tunnel Est, North Shields, Tyne & Wear, NE29 7XJ"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/5/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Camelot Chilled Foods Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "RH11 7RY"
+  ],
+  "addresses": [
+   "Unit 1-5, Camelot Business Centre, Crawley, West Sussex, RH11 7RY, Contact: Rakesh Patel"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/5/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Cavendish Ships Stores Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "PO14 4LW"
+  ],
+  "addresses": [
+   "Units 42/43, Unit 2 Kites Croft Business Park, PO14 4LW, Contact: Mike Purden"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/6/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Cellar Drinks",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "NP8 1DF"
+  ],
+  "addresses": [
+   "Unit 4 Waller House, Elvicta Business Park, Crickhowell, NP8 1DF, Contact: Rhys Anstee"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/6/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Chetan Wholesalers Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "SS2 6GD"
+  ],
+  "addresses": [
+   "7 Comet Way, Southend on Sea, SS2 6GD, Contact: Bipin Mandalia"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/6/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Cobev Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "IG11 0DA"
+  ],
+  "addresses": [
+   "Hanuman House, 39 River Road, Barking, Essex, IG11 0DA, Contact: Amish Thakkar"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/6/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Country Fare",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BH11 8JP"
+  ],
+  "addresses": [
+   "Magna House, 103 Provence Drive, Canford Magna, Bournemouth, BH11 8JP, Contact: Gavin Millward"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/6/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "CPD Direct Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "HU5 1SG"
+  ],
+  "addresses": [
+   "Ipark Industrial Estate, Innovation Drive, Hull, HU5 1SG, Contact: Tony Bennett"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/7/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "CPT International (UK) Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "B9 4NZ"
+  ],
+  "addresses": [
+   "28 Century Park, Garrison Lane, Birmingham, B9 4NZ, Contact: Ian Sharpe"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/7/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "D.B. Ramsden & Co Limited",
+  "trading_names": [
+   "D.B. Ramsden & Co Limited (T/A Dee Bee)",
+   "Dee Bee"
+  ],
+  "parent": "",
+  "postcodes": [
+   "DN31 1SJ",
+   "HU7 0BY"
+  ],
+  "addresses": [
+   "Adam Smith Street, Adam Smith Street, Grimsby, DN31 1SJ, Contact: Paddy O'Connor",
+   "90 Leads Road, Hull, East Riding of Yorkshire, HU7 0BY, Contact: Craig Banister"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/7/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Dasco (Wholesale) Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "HA9 0AS"
+  ],
+  "addresses": [
+   "Unit 17, Wembley Park Business Centre, North End Road, Wembley, HA9 0AS, Contact: Dilip Shah"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/7/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Davis & Dann Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "HA4 0JQ"
+  ],
+  "addresses": [
+   "Kanta House, Victoria Road, South Ruislip, HA4 0JQ, Contact: Rekesh Tailor"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/8/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Dayla Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "HP22 5AH",
+   "HP19 9EW"
+  ],
+  "addresses": [
+   "Unit 2, 50 Aylesbury Road Aston Clinton, Aylesbury, Buckinghamshire, HP22 5AH, Contact: Tim Cooper",
+   "Aylesbury Industrial Estate, Unit 22-23 Vale Road, Southern Road, HP19 9EW, Contact: Tim Cooper"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/8/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Dhamecha Foods Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "HA9 0TU",
+   "IG11 0EG",
+   "CR0 3AF",
+   "EN1 1TH",
+   "WD24 4UA",
+   "UB3 1RY",
+   "SE6 3JH",
+   "LE1 2LB",
+   "B66 2NW",
+   "NG7 2UT",
+   "B70 0DD",
+   "E10 7AS",
+   "L30 4XL"
+  ],
+  "addresses": [
+   "Wembley Stadium Industrial Estate, First Way, Wembley, HA9 0TU, Contact: Shahil Pradipkumar",
+   "125 River Road, Barking, IG11 0EG, Contact: Vishal Patel",
+   "675A Mitcham Road, Croydon, CR0 3AF, Contact: Madhavan Kunasekaran",
+   "28 Crown Road, Enfield, EN1 1TH, Contact: Javal Dave",
+   "Imperial Way, Watford, WD24 4UA, Contact: Keshav Odedra",
+   "243 Blyth Road, Hayes, UB3 1RY, Contact: Vinod Ramji",
+   "2 Fordmill Road, Catford, Lewisham, SE6 3JH, Contact: Netaji Patel",
+   "101 Cobden Street, Leicester, LE1 2LB, Contact: Ashish Soni",
+   "Steel Bright Road, Smethwick, Birmingham, B66 2NW, Contact: Sohail Hussain",
+   "Bull Close Road, Lenton Industrial Estate, Nottingham, NG7 2UT, Contact: Sudhir Nayee",
+   "Richmond Road, West Midlands, West Bromwich, B70 0DD, Contact: Kamlesh Patel",
+   "Argall Avenue, Leyton, London, E10 7AS, Contact: Krupal Patel",
+   "Farriers Way, Bootle, Liverpool, L30 4XL, Contact: Prakash Modhvadiya"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/10/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/11/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/8/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/9/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Direct Line Supplies Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "TS17 9JY",
+   "TS18 3SH"
+  ],
+  "addresses": [
+   "77 Sadler Forster Way, Teeside Industrial Estate, TS17 9JY, Contact: Sonal Sarvaiya",
+   "Preston Farm Industrial Estate, Stockton on Tees, TS18 3SH, Contact: Sonal Sarvaiya"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/11/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Drink Warehouse UK Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "CT12 5FE"
+  ],
+  "addresses": [
+   "Unit 2a, Sapphire House, The Loop, Sapphire Way,, Ramsgate, CT12 5FE, Contact: Demis Farley"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/11/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Drinks Wholesale Group Ltd",
+  "trading_names": [
+   "Drinks Wholesale Group Ltd (Elbrook Cash & Carry)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "CR4 3HG"
+  ],
+  "addresses": [
+   "105 Bond Road, Mitcham, Surrey, CR4 3HG, Contact: Pajmit Singh Gulati"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/11/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "E.F.G. Housewares Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "EN3 7NJ"
+  ],
+  "addresses": [
+   "29 Mollison Avenue, Brimsdown, Enfield, EN3 7NJ, Contact: Daren Shipton"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/12/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Eden Farm Ltd",
+  "trading_names": [
+   "Eden Farm Ltd (Kitwave Wholesale Group)"
+  ],
+  "parent": "Kitwave Group plc",
+  "postcodes": [
+   "SR8 2HY"
+  ],
+  "addresses": [
+   "1 Cook Way, North West Industrial Estate,, PeterLee, CO Durham, SR8 2HY, Contact: Ben Maxted"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/12/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Edwards Beers & Wine Supplies Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "LU7 4SE"
+  ],
+  "addresses": [
+   "Unit B Lancer Court Grovebury Road, Leighton Buzzard, LU7 4SE"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/12/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Emregas Wholesalers Ltd",
+  "trading_names": [
+   "Embon Wholesalers Ltd",
+   "Emregas Wholesalers Ltd (T/A Embon Wholesalers Ltd)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "CR4 3HG"
+  ],
+  "addresses": [
+   "Bond House, Bond Road, CR4 3HG, Contact: Elayathambi Mahendirarajah"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/12/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Euro Wines C&C Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "SE8 4SA"
+  ],
+  "addresses": [
+   "5-9 Creekside, Deptford, SE8 4SA, Contact: Alfron Almeida"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/12/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Express Foodservice (NI) Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [],
+  "addresses": [
+   "24N Pennyburn Industrial Estate, Derry / L'Derry, BT48 OLU, Contact: Gerard Lafferty"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/13/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": "Northern Ireland - HMRC trader data omits NI imports from the EU"
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Failte Foodservice Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "G21 2DU"
+  ],
+  "addresses": [
+   "East Warehouse, Glasgow Fruit & Vegetable Wholesale Market, 130 Blochairn Road, Glasgow, G21 2DU, Contact: Jim Cummiskey"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/13/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Felville Investment Co Ltd",
+  "trading_names": [
+   "Caledonian Supply Co / Mehadrin Wholesale Ltd",
+   "Felville Investment Co Ltd (T/A Caledonian Supply Co / Mehadrin Wholesale Ltd)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "HA0 1QG"
+  ],
+  "addresses": [
+   "86-88 Queensbury Road, Middlex, HA0 1QG, Contact: Sylvian Klein"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/13/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Friars Pride Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "PE1 5YW",
+   "NG4 2SQ",
+   "NR13 6PT",
+   "SS13 1LT",
+   "BS5 7DR",
+   "BH15 3NT",
+   "PL7 5EX"
+  ],
+  "addresses": [
+   "Oxney Road, Peterborough, PE1 5YW, Contact: Ed Clancy",
+   "Drake Road, Victoria Park, Netherfield, Nottingham, NG4 2SQ, Contact: Ed Clancy",
+   "Bidwell Road Rackheath Industrial Estate, Norwich, NR13 6PT, Contact: Ed Clancy",
+   "29 Nobel Square, Courtauld Road, Burnt Mills Industrial Estate, Basildon, Essex, SS13 1LT, Contact: Ed Clancy",
+   "Unit 1-4 Eastpark Trading Estate, Gordon Road, Bristol, BS5 7DR, Contact: Ed Clancy",
+   "213 Haymoor Road, Poole, Dorset, BH15 3NT, Contact: Ed Clancy",
+   "Unit 8, Meadow Close, Langage Business Park, Plymouth, PL7 5EX, Contact: Ed Clancy"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/13/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/14/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "G+G Gallo Enterprises Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "CM77 7AA",
+   "NR6 6AX"
+  ],
+  "addresses": [
+   "430-450 Avenue West, Skyline 120 Business Park, Braintree, Essex, CM77 7AA, Contact: Victoria McCabe",
+   "6-8 Burton Way, Norwich, NR6 6AX, Contact: Victoria McCabe"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/15/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "G-A-P Convenience Distribution Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "PR2 5PB"
+  ],
+  "addresses": [
+   "Lancashire Way, Preston, PR2 5PB, Contact: Andrew Barnes"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/15/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "G.W.Fields & Sons (Great Yarmouth) Ltd",
+  "trading_names": [
+   "G.W.Fields & Sons (Great Yarmouth) Ltd (T/A Yare Shipping Stores)",
+   "Yare Shipping Stores"
+  ],
+  "parent": "",
+  "postcodes": [
+   "NR31 0NN"
+  ],
+  "addresses": [
+   "Hewitt Road, Gapton Industrial Estate, Great Yarmouth, NR31 0NN, Contact: Gill Fields"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/15/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Gandhi Oriental Foods Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "IG11 0RG"
+  ],
+  "addresses": [
+   "GOF House, Unit 5, A13 Approach (Rima House), Barking, IG11 0RG, Contact: Ganti Gandhi"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/15/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "George Twist (Wholesale) Ltd",
+  "trading_names": [
+   "Gee Tee\u2019s",
+   "George Twist (Wholesale) Ltd (T/A Gee Tee\u2019s)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "WN5 8DH"
+  ],
+  "addresses": [
+   "Leopold St, Lamberhead Ind Est, Pemberton, WN5 8DH, Contact: Jonathan Twist"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/16/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Gizzi Cash & Carry",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "ML4 3JU"
+  ],
+  "addresses": [
+   "James Street, Righead Industrial Estate, Bellshill, ML4 3JU, Contact: Allan Clark"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/16/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Global Foods Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "CF11 8TS"
+  ],
+  "addresses": [
+   "Stadium Close, Off Penarth Road, Cardiff, CF11 8TS, Contact: Qaiser Aziz"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/16/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Goodwins Hardware Wholesalers (London) Ltd",
+  "trading_names": [
+   "Goodwins Direct",
+   "Goodwins Hardware Wholesalers (London) Ltd (T/A Goodwins Direct)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "TW16 7HB"
+  ],
+  "addresses": [
+   "162 Windmill Road, Shepperton, Sunbury On Thames, TW16 7HB, Contact: Nihal Sohi"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/16/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "H N Nuttall Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "SK14 4LF"
+  ],
+  "addresses": [
+   "Newton Moor Industrial Estate, Newton, Hyde, SK14 4LF, Contact: James Rogers"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/16/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Hancocks",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BD4 6SG",
+   "M12 5DD",
+   "B7 4SL",
+   "BS11 8DL",
+   "G21 2RL",
+   "DH2 1AG",
+   "HU7 0YF",
+   "PO3 5NH",
+   "PR5 8AN",
+   "CF11 8EQ",
+   "WD24 4WP",
+   "L30 1NY",
+   "S9 1XA",
+   "LE11 5TX"
+  ],
+  "addresses": [
+   "Wharfdale Road, Euroway Industrial Estate, Bradford, BD4 6SG, Contact: Steve Ogden",
+   "2 Ambrose Street, Gorton, Manchester, M12 5DD, Contact: Roy Ward",
+   "Devon Street, Duddeston Mill Road, Birmingham, B7 4SL, Contact: David McHenry",
+   "Fourth Way, Avonmouth, Bristol, BS11 8DL, Contact: Steve Brooker",
+   "305 Blochairn Road, Blochairn, Glasgow, G21 2RL, Contact: Jim Marshall",
+   "Drum Industrial Estate, Chester Le Street, County Durham, DH2 1AG, Contact: Tony Hilton",
+   "Malmo Road, Sutton Fields Industrial Estate, Hull, HU7 0YF, Contact: Dave Green",
+   "Claybank Road, Copnor, Portsmouth, PO3 5NH, Contact: Kev Croughan",
+   "Unit 1, Carnfield Place, Bamber Bridge, Preston, PR5 8AN, Contact: Lee Norris",
+   "Unit A, Freeman Parc, Penarth Road, Cardiff, CF11 8EQ, Contact: Mike Rees",
+   "Unit 4, Watford Interchange, Colonial Way, Watford, WD24 4WP, Contact: Tim Gendall",
+   "Unit 3, Vesty Business Park, Vesty Road (off Bridle Road), Liverpool, L30 1NY, Contact: Wayne Jones",
+   "Park House Lane, Bawtry Road, Sheffield, S9 1XA, Contact: Darren Ward",
+   "27 Jubilee Drive, Leicester, LE11 5TX, Contact: Jonathan Summerley"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/17/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/18/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/19/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "HB Clark",
+  "trading_names": [
+   "HB Clark (Kitwave Wholesale Group)"
+  ],
+  "parent": "Kitwave Group plc",
+  "postcodes": [
+   "WF3 4FE",
+   "CA15 8NF",
+   "PR4 2HU",
+   "BD21 4JH",
+   "DH3 1DQ",
+   "S20 1DJ",
+   "BL6 4TW",
+   "HU7 0YF",
+   "OL9 9LZ"
+  ],
+  "addresses": [
+   "Unit 1, Headways, Stanley, Wakefield, WF3 4FE, Contact: Francesca Sabin",
+   "Units 23A & 23B, Solway Industrial Est, CA15 8NF, Contact: Francesca Sabin",
+   "Unit (1-2), Selby Business Park, Richards St, PR4 2HU, Contact: Francesca Sabin",
+   "Acre Park, Dalton Lane, Keighley, BD21 4JH, Contact: Francesca Sabin",
+   "Unit 10, Station Lane Ind Est, DH3 1DQ, Contact: Francesca Sabin",
+   "Unit B, Beighton Link, Old Colliery Way, S20 1DJ, Contact: Francesca Sabin",
+   "Vine House, Lynstock way, BL6 4TW, Contact: Francesca Sabin",
+   "105 Nar-vik Road, Malmo Road, HU7 0YF, Contact: Francesca Sabin",
+   "Westwood Industrial Estate, Arkwright Street, OL9 9LZ, Contact: Francesca Sabin",
+   "Old Colliery Way, Beighton, S20 1DJ, Contact: Francesca Sabin"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/19/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/20/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/21/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Henry Colbeck Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "NE11 0HG",
+   "ML5 4EG"
+  ],
+  "addresses": [
+   "7th Avenue, Gateshead, Newcastle, NE11 0HG, Contact: Michael Shone",
+   "South Caldeen Road, Calder Street Business Park, Coatbridge, Lanarkshire, ML5 4EG, Contact: Michael Shone"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/21/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/22/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Home Hardware (Scotland) Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "KA22 7GQ"
+  ],
+  "addresses": [
+   "26a Dalry Road, Ardrossan, North Ayrshire, KA22 7GQ, Contact: Derek O'Ware"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/22/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Home Hardware South West Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "EX31 1NZ",
+   "MK41 0UD"
+  ],
+  "addresses": [
+   "Upcott Avenue, Pottington, EX31 1NZ, Contact: Paul Andrews",
+   "Unit 3 Hammond Road, Elms Farm Industrial Estate, Bedford, MK41 0UD, Contact: Paul Andrews"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/22/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Hops & Barley Limited",
+  "trading_names": [
+   "Halls Drinks",
+   "Hops & Barley Limited (T/A Halls Drinks)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "L6 5AT",
+   "CH8 7HJ"
+  ],
+  "addresses": [
+   "Larch Lea Industrial Estate, Castor Street, Liverpool, Merseyside, L6 5AT, Contact: Mike Caulfield",
+   "Unit F, Greenfield Business Park, 1 Bagillt Road, Holywell, Flintshire, CH8 7HJ, Contact: Mike Caulfield"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/22/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/23/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "HT & Co. (Drinks) Ltd",
+  "trading_names": [
+   "Champers Wholesale Ltd",
+   "HT & Co. (Drinks) Ltd (T/A Champers Wholesale Ltd)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "HA0 1HX",
+   "BN9 0BX",
+   "NW10 7LQ",
+   "B5 6TG"
+  ],
+  "addresses": [
+   "263 Water Road, Wembley, HA0 1HX, Contact: Chris Alba",
+   "Units 1-3 Beach Road, Newhaven, BN9 0BX, Contact: Chris Alba",
+   "31-37 Park Royal Road, Park Royal, London, NW10 7LQ, Contact: Chris Alba",
+   "47 Macdonald Street, Highgate, B5 6TG, Contact: Chris Alba"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/23/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Imperial Cash & Carry Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "N18 3BB"
+  ],
+  "addresses": [
+   "18 Eley Road, Eley Industrial Estate, London, N18 3BB, Contact: Neil Govind"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/24/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Indus Foods Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "B11 1BH"
+  ],
+  "addresses": [
+   "75 Sampson Road North, Sparkbrook, Birmingham, B11 1BH, Contact: Zaf Chaudhary"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/24/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Inspira Trading Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "SG15 6SG"
+  ],
+  "addresses": [
+   "Unit 5, Crossway Park, Arlesey, Bedfordshire, SG15 6SG, Contact: Gary Rosen"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/24/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Island Ales Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "PO30 4LZ"
+  ],
+  "addresses": [
+   "Dinglers Farm Yarmouth Road, Shalfleet, Newport, Isle of Wight, PO30 4LZ, Contact: Steve Minshull"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/24/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "J W Filshill Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "PA4 8DJ"
+  ],
+  "addresses": [
+   "Unit 1, Westway Park, 35 Porterfield Road, Renfrew, PA4 8DJ"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/24/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "James Wilson (Orkney) Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "KW16 3JU"
+  ],
+  "addresses": [
+   "Garson Industrial Estate, Stormness, KW16 3JU"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/25/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "JJ Foodservice Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "EN3 7XY",
+   "B7 4NA",
+   "DN3 3FD",
+   "LE3 1UW",
+   "LS11 5BX",
+   "M27 8UJ",
+   "DA14 5AG",
+   "NE4 7LA",
+   "RM9 6FF",
+   "BS16 7FQ",
+   "RG21 5UG"
+  ],
+  "addresses": [
+   "7 Solar Way, Enfield, EN3 7XY, Contact: Mustafa Kiamil",
+   "Unit 4 Ringway Business Park, 101 Avenue Road, Birmingham, B7 4NA, Contact: Mustafa Kiamil",
+   "Unit 4, Derbyshire Ct, Armthorpe, Doncaster, DN3 3FD, Contact: Mustafa Kiamil",
+   "10 Murrayfield Road, Braunston Frith Industrial Estate, Leicester, LE3 1UW, Contact: Mustafa Kiamil",
+   "Middleton Grove, Leeds, LS11 5BX, Contact: Mustafa Kiamil",
+   "1A Lamplight Way, Swinton, Agecroft, Pendlebury, Manchester, M27 8UJ, Contact: Mustafa Kiamil",
+   "Unit 2, Five Arches Business Centre, Maidstone Road, Sidcup, DA14 5AG, Contact: Mustafa Kiamil",
+   "Sanderson Street, Newcastle upon Tyne, NE4 7LA, Contact: Mustafa Kiamil",
+   "Unit 4, Orion Park Messina Way, Dagenham, RM9 6FF, Contact: Mustafa Kiamil",
+   "5, The Cobden Centre, Folly Brook Road, Emersons Green, Bristol, BS16 7FQ, Contact: Mustafa Kiamil",
+   "Kingsclere Road, Basingstoke, RG21 5UG, Contact: Mustafa Kiamil"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/25/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/26/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/27/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "JK Foods",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "NG7 2UT"
+  ],
+  "addresses": [
+   "Bull Close Road, Lenton Industrial Estate, Nottingham, NG7 2UT, Contact: Marcus Singh"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/27/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "John Mower & Co Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "EN11 0DE"
+  ],
+  "addresses": [
+   "Millmead House, Pindar Road, Hoddesdon, EN11 0DE, Contact: John Tweed"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/27/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "John Tulloch (Shetland Products) Limited",
+  "trading_names": [
+   "Hughson Bros",
+   "John Tulloch (Shetland Products) Limited (T/A Hughson Bros)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "ZE1 0PX"
+  ],
+  "addresses": [
+   "Gremista Industrial Estate, Lerwick, Shetland, ZE1 0PX, Contact: Carl Cross"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/27/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Jones Wholesale Business Store",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "NN5 7QY"
+  ],
+  "addresses": [
+   "Heathfield Way, Kings Heath, Northampton, NN5 7QY, Contact: Simon Allitt"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/28/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Joseph Keegan & Sons Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [],
+  "addresses": [
+   "Centenary Buildings, Cleveland Ave, Holyhead, Contact: Joseph Keegan"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/28/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "JWG Plc",
+  "trading_names": [
+   "J W Gray & Co",
+   "JWG Plc (T/A J W Gray & Co)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "ZE1 0PX",
+   "KW15 1GJ"
+  ],
+  "addresses": [
+   "Gremista Industrial Estate, Lerwick, Shetland Islands, ZE1 0PX, Contact: George Hepburn",
+   "Hatston Industrial Estate, Kirkwall, Orkney Islands, KW15 1GJ, Contact: George Hepburn"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/28/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "KD Wholesale Cash & Carry",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "WD24 7GP"
+  ],
+  "addresses": [
+   "10 Greycaine Road, WD24 7GP, Contact: Yogesh Noticewala"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/28/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Kelly Hunter Trading Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [],
+  "addresses": [
+   "29 Kildare Street, Dublin 2, Ireland, Contact: Brian Doyle"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/29/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": "Republic of Ireland - outside HMRC trader data",
+  "ni": false
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Khanjra International Foods Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BB1 3HU"
+  ],
+  "addresses": [
+   "Greenbank Business Park, Blakewater Road, Blackburn, BB1 3HU, Contact: Altaf Khanjra"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/29/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Libra Drinks Wholesale Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "NG7 2NN"
+  ],
+  "addresses": [
+   "Unit 2 Finch Close, Nottingham, NG7 2NN, Contact: Gary Beagley"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/29/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Lioncroft Wholesale",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "B6 5PL",
+   "B66 2NW"
+  ],
+  "addresses": [
+   "Upper Thomas St, Birmingham, B6 5PL, Contact: Jason Wouhra",
+   "James Watt Industrial Park, Steel Bright Road, Smethwick, B66 2NW, Contact: Jason Wouhra"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/29/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Lomond",
+  "trading_names": [
+   "Lomond \u2013 The Wholesale Food Co."
+  ],
+  "parent": "",
+  "postcodes": [
+   "G21 1HX"
+  ],
+  "addresses": [
+   "75 Keppochhill Drive, Glasgow, G21 1HX, Contact: Sam Henderson"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/30/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Loon Fung Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "N17 0DX",
+   "W1D 5QG",
+   "HA0 1HQ",
+   "NW9 0FH"
+  ],
+  "addresses": [
+   "111 Brantwood Road, London, N17 0DX, Contact: Sandra Mendes",
+   "Loon Fung Chinatown, 42-44 Gerrard Street, London, W1D 5QG, Contact: Sandra Mendes",
+   "Loon Fung Alperton, 1 Glacier Way, Alperton, Middlesex, HA0 1HQ, Contact: Sandra Mendes",
+   "Loon Fung Stratford, 33 - 34 The Mall The Stratford Centre, London, Contact: Sandra Mendes",
+   "Loon Fung Colindale, Unit G, 399 Edgware Road, London, NW9 0FH, Contact: Sandra Mendes"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/30/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/31/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Lubna Foods Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BD3 9HA"
+  ],
+  "addresses": [
+   "Lubna House, 164 Garnett Street, BD3 9HA, Contact: Naser Ali"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/31/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "LWC Drinks Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "M11 2DN",
+   "DH4 5RH",
+   "TS18 2PH",
+   "PR25 3EY",
+   "WA8 8UA",
+   "ST4 4LN",
+   "HR6 0QF",
+   "SL1 4XX",
+   "TR15 3JD",
+   "TQ12 6UT",
+   "BN23 6QF",
+   "LS9 0RR",
+   "NN5 7DR",
+   "SN11 9BS"
+  ],
+  "addresses": [
+   "3 Stainburn Road, Openshaw, Manchester, M11 2DN, Contact: Andrew Morse",
+   "Mulberry Way, Dubmire Industrial Estate, Houghton le Spring, Tyne, DH4 5RH",
+   "Portrack Grange Rd, Stockton-on-Tees, TS18 2PH",
+   "Comet Road, Moss Side, Leyland, Preston, PR25 3EY",
+   "Fieldgate, Marshgate Industrial Estate, Widnes, WA8 8UA",
+   "Grove Road, Heron Cross, Stoke-on-Trent, ST4 4LN",
+   "Southern Avenue, Leominster, Hereford, HR6 0QF",
+   "Unit 5-7, Perth Avenue, Perth Trading Estate, Slough, SL1 4XX",
+   "Wilson Way, Pool Industrial Estate, Redruth, Cornwall, TR15 3JD",
+   "King Charles Business Park, Old Newton Road, Heathfield, Newton Abbot, Devon, TQ12 6UT",
+   "15 Alder Close, Eastbourne, BN23 6QF",
+   "Unit 11, Pontefract Lane, Cross Green, Leeds, LS9 0RR",
+   "Imperial House, Spencer Bridge Road, Northampton, NN5 7DR",
+   "Unit 1, Clarke Avenue, Portemarsh Industrial Estate, Calne, Wiltshire, SN11 9BS"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/31/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/32/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/33/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/34/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Lynton Exports (Alsager) Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "ST7 2LU"
+  ],
+  "addresses": [
+   "Sandbach Road South, Alsager, Stoke-on-Trent, Staffordshire, ST7 2LU, Contact: David Sandall"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/34/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "M&M Value North Shields",
+  "trading_names": [
+   "M&M Value North Shields (Kitwave Wholesale Group)"
+  ],
+  "parent": "Kitwave Group plc",
+  "postcodes": [
+   "NE29 7XJ"
+  ],
+  "addresses": [
+   "Unit S3, Narvik Way, Tyne Tunnel Est,, North Shields, Tyne & Wear, NE29 7XJ, Contact: Michael Young"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/34/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "M.J. Baker Foodservice Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "TQ12 6UD"
+  ],
+  "addresses": [
+   "21 Fairfax Road, Heathfield Industrial Estate, Newton Abbot, TQ12 6UD, Contact: Malcom Baker"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/34/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Maison Maurice Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "DA11 9BL"
+  ],
+  "addresses": [
+   "K1-K5 Northfleet Industrial Estate Lower Road, North Fleet, Kent, DA11 9BL, Contact: Adrian Sundin"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/34/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Michael I Holdsworth Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "S44 5HN",
+   "S44 5FB",
+   "MK45 3PD",
+   "WR11 2QL",
+   "NP8 1EB",
+   "DN31 2SG",
+   "RM15 4XP",
+   "BH23 3PE"
+  ],
+  "addresses": [
+   "Chesterfield Dry Store, Markham Lane, Markham Vale, Chesterfield, Derbyshire, S44 5HN, Contact: John Colton",
+   "Chesterfield Cold Store, Greaves Close, Markham Vale, Chesterfield, Derbyshire, S44 5FB, Contact: John Colton",
+   "Unit 31 Kenneth Way, Wilstead Industrial Park, Wilstead, Bedford, MK45 3PD, Contact: John Colton",
+   "Holdsworth Distribution Centre, Hinton on the Green, Evesham, Worcestershire, WR11 2QL, Contact: John Colton",
+   "Raglan House, Elvicta Business Park, Crickhowell, Powys, NP8 1EB, Contact: John Colton",
+   "Units C & D Birchin Way, Grimsby, North East Lincolnshire, DN31 2SG, Contact: John Colton",
+   "Sandy Lane Farm, Sandy Lane, Aveley, Essex, RM15 4XP, Contact: John Colton",
+   "Unit 12 Airfield Way, Christchurch, Dorset, BH23 3PE, Contact: John Colton"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/35/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/36/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Montine Food Company",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "SS4 1ND"
+  ],
+  "addresses": [
+   "7 Purdeys Way, Purdeys Ind Estate, Rochford, SS4 1ND, Contact: Philip Walters"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/36/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Mrs. J.C.Altham & Sons (Lancaster) Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "LA3 2UZ"
+  ],
+  "addresses": [
+   "Anchor Building, Penrod Way, Heysham, LA3 2UZ, Contact: Jane Watson"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/36/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Musgrave Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BT3 9HJ",
+   "BT48 0LU",
+   "BT12 6SJ"
+  ],
+  "addresses": [
+   "1-15 Dargan Cresent, Duncrue Road, Belfast, BT3 9HJ, Contact: Jason Harvey",
+   "Pennyburn Ind Est, Buncrana Road, Derry~Londonderry, BT48 0LU, Contact: Jason Harvey",
+   "4 Falcon Road, Belfast, BT12 6SJ, Contact: Jason Harvey"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/37/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": "Northern Ireland - HMRC trader data omits NI imports from the EU"
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "MX Wholesale",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "LE2 7SR"
+  ],
+  "addresses": [
+   "18 Commercial Square, LE2 7SR, Contact: Ronak Shah"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/37/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Natco Cash & Carry Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "UB3 3NB",
+   "MK18 1TB"
+  ],
+  "addresses": [
+   "Pump Lane, Hayes, UB3 3NB, Contact: Gopal Wadhwani",
+   "Choithram House, Swan Business Park,, Osier Way, MK18 1TB, Contact: Gopal Wadhwani"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/37/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/38/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Oncore Foodservice Solutions Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "PR2 5BL"
+  ],
+  "addresses": [
+   "Unit 3 Millenium City Park, Millenium Road, Preston, PR2 5BL, Contact: Robert Coupe"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/38/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Ooberstock Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "SL5 9FE"
+  ],
+  "addresses": [
+   "9 Queens Square,, Ascot Business Park, Ascot, SL5 9FE"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/38/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Plassey Food & Distribution Co. Ltd",
+  "trading_names": [
+   "Plassey Food",
+   "Plassey Food & Distribution Co. Ltd (T/A Plassey Food)"
+  ],
+  "parent": "",
+  "postcodes": [],
+  "addresses": [
+   "Rathkeale Industrial Estate, Rathkeale, Co. Limerick, V94 X2K0, Contact: Tom Magner"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/38/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": "Republic of Ireland - outside HMRC trader data",
+  "ni": false
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Premier Exports",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "LU1 1FW"
+  ],
+  "addresses": [
+   "Premier Exports London Ltd, Unit 11, Trade City, Kingsway, LU1 1FW, Contact: Kieran Samani"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/38/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Pricecheck International Brand Partners",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "S20 1DJ"
+  ],
+  "addresses": [
+   "Old Colliery Way, Beighton, Sheffield, S20 1DJ"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/39/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Primo Drinks",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "SK6 2ST"
+  ],
+  "addresses": [
+   "Corrie Way, Bredbury Park Industrial Estate, SK6 2ST, Contact: Brian Wright"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/39/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "R D Johns Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BA3 4SB",
+   "TQ12 4SG"
+  ],
+  "addresses": [
+   "Charlton Lane, Midsomer Norton, Radstock, BA3 4SB, Contact: Andrew Johns",
+   "Milber Industrial Estate, Newton Abbot, Devon, TQ12 4SG, Contact: Andrew Johns"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/39/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Regal Wholesale Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "CH62 3RQ"
+  ],
+  "addresses": [
+   "5 Riverview Business Park, Shore Wood Road, Wirral, CH62 3RQ, Contact: Gareth Price"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/39/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Restaurant Wholesale Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "M40 8AD",
+   "IG11 0SY"
+  ],
+  "addresses": [
+   "Hulme Hall Lane, Miles Platting, Manchester, M40 8AD, Contact: Rubayeth Kamal",
+   "London Works, Ripple Road, Barking, Essex, IG11 0SY, Contact: Rubayeth Kamal"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/40/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Reynolds Catering Supplies Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "LE67 1UB",
+   "EN8 7RQ",
+   "FK3 8YE",
+   "RG14 5SH",
+   "LS25 6EP",
+   "SK14 1PQ",
+   "BS37 5NH"
+  ],
+  "addresses": [
+   "Unit G Plot 100, Forest Business Park, Walker Road, Barden Hill, LE67 1UB, Contact: Oliver Cock",
+   "Britannia Road, National Distribution Centre, EN8 7RQ, Contact: Oliver Cock",
+   "Unit G Plot 100, Forest Business Park, Walker Road, Barden Hill, LE67 1UB, Contact: Oliver Cock",
+   "Unit 1B, Block 1 West Mains Industrial Estate, FK3 8YE, Contact: Oliver Cock",
+   "Unit 13, Bone Lane, RG14 5SH, Contact: Oliver Cock",
+   "Bypass Park Industrial Estate, Sherburn In Elmet, LS25 6EP, Contact: Oliver Cock",
+   "Unit 508 Hammond Avenue, Whitehill Industrial Estate, SK14 1PQ, Contact: Oliver Cock",
+   "Unit 3, 247 Armstrong Way, Great Western Business Park, BS37 5NH, Contact: Oliver Cock"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/40/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/41/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Rightway Wholesale Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "G42 0ND"
+  ],
+  "addresses": [
+   "555 Calder Street, Glasgow, G42 0ND, Contact: Javid Ashraf"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/42/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Robinsons Fresh Foods Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "IM4 2AF"
+  ],
+  "addresses": [
+   "Ballapaddag Farm, Cooil Road, Douglas, IM4 2AF, Contact: Tony Fox"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/42/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "S&W Wholesale",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BT35 6FY"
+  ],
+  "addresses": [
+   "Carnbane Business Park, Newry, BT35 6FY, Contact: Alan Dorman"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/42/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": "Northern Ireland - HMRC trader data omits NI imports from the EU"
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Sam 99p Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "IG11 0SB"
+  ],
+  "addresses": [
+   "Renwick Road, Barking, IG11 0SB, Contact: Fida Raja"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/42/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Scottish Midland Cooperative Society Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "EH28 8QJ"
+  ],
+  "addresses": [
+   "Hillwood House, 2 Harvest Drive, Newbridge, EH28 8QJ, Contact: Les Ronaldson"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/42/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "SIAN Wholesale Warehouse",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "MK41 0HR"
+  ],
+  "addresses": [
+   "Elm Farm Estate, Bedford, MK41 0HR, Contact: Andrew klimkce"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/43/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "SK Food And Drinks Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "B24 8HZ"
+  ],
+  "addresses": [
+   "SK Buildings, Unit 1, Gravely Hill Industrial Park, Tyburn Road, Birmingham, B24 8HZ, Contact: Telly Serai"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/43/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Small Beer Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "LN4 2FF"
+  ],
+  "addresses": [
+   "Unit 1, Churchill Business Park, Sleaford Road, Bracebridge Heath, Lincoln, LN4 2FF, Contact: Tony Rob Eastwood"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/43/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Soho Cash & Carry Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "B66 1QG",
+   "WV10 0ED"
+  ],
+  "addresses": [
+   "Sandwell Business Park, Units 9,11,13 Crystal Drive, Smethwick, B66 1QG, Contact: Paul Knobbs",
+   "Tremont Street, Wolverhampton, WV10 0ED, Contact: Paul Knobbs"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/43/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "South Eastern Foods Ltd",
+  "trading_names": [
+   "Bradleys",
+   "South Eastern Foods Ltd (T/A Bradleys)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "TN23 6LL"
+  ],
+  "addresses": [
+   "Wotton Road, Ashford, Kent, TN23 6LL, Contact: Graham Linkins"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/44/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Squirrels",
+  "trading_names": [
+   "Squirrels (Kitwave Wholesale Group)"
+  ],
+  "parent": "Kitwave Group plc",
+  "postcodes": [
+   "LU2 9LF"
+  ],
+  "addresses": [
+   "Cargo 10, Airport Way, Luton, LU2 9LF, Contact: David Yolland"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/44/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Star Catering Supplies LTD",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "EN3 7UD"
+  ],
+  "addresses": [
+   "Unit 1-8 Centenary Estate, Jeffreys Road, Enfield, EN3 7UD, Contact: Oguz Ucur"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/44/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Stax Trade Centres PLC",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "M28 2LA",
+   "B69 2HN",
+   "LS27 0SW",
+   "BS10 7JB",
+   "EH6 8LB",
+   "G33 4UL"
+  ],
+  "addresses": [
+   "Unit 1-4 Holloway Drive, The Wardley Ind Estate, Worsley, Manchester, M28 2LA, Contact: David Hibbert",
+   "Brades Road, Oldbury, Birmingham, B69 2HN, Contact: David Hibbert",
+   "Howley Park Road, East Morley, Leeds, LS27 0SW, Contact: David Hibbert",
+   "Wyck Beck Road, Brentry, Bristol, BS10 7JB, Contact: David Hibbert",
+   "37-39 St Clair Street, Edinburgh, EH6 8LB, Contact: David Hibbert",
+   "5-9 Easter Queenslie Rd, Queenslie Industrial Estate, Glasgow, G33 4UL, Contact: David Hibbert"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/44/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/45/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Sunmark",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "UB6 8UH"
+  ],
+  "addresses": [
+   "428 Long Drive, Greenford, Middlesex, UB6 8UH, Contact: Mohan Khurana"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/45/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Sutherland Brothers Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "KW1 4QS"
+  ],
+  "addresses": [
+   "Unit 11 Airport Industrial Estate, Wick Caithness, KW1 4QS, Contact: David Sutherland"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/46/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Swallow Drinks Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "B32 3AH"
+  ],
+  "addresses": [
+   "Stonehouse Lane Bartley Green, Birmingham, B32 3AH, Contact: Steve Land"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/46/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Tate Smith Limited",
+  "trading_names": [
+   "Derventio Wines",
+   "Tate Smith Limited (T/A Derventio Wines)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "YO17 7EE"
+  ],
+  "addresses": [
+   "Sundella House, Castle gate off Sheepfoot Hill, YO17 7EE, Contact: Paul Tate-Smith"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/46/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Temple Wines Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "NW9 8UA"
+  ],
+  "addresses": [
+   "NDK House, 472 Church Lane, Kingsbury, NW9 8UA, Contact: Neal Nalen"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/46/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Thames Wholesalers Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "CR0 4YL"
+  ],
+  "addresses": [
+   "Unit 6, Commerce Park, 19 Commerce Way, CR0 4YL, Contact: Kartik Patel"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/46/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "The Olive Group",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "OL15 8YJ"
+  ],
+  "addresses": [
+   "Unit 1 & 2 Littleborough Trading Estate, Littleborough, OL15 8YJ, Contact: Craig Olive"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/47/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "The Wigan Beer Company Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "WN3 6XE"
+  ],
+  "addresses": [
+   "Hawkley Brook Trading Estate, Worthington Way, WN3 6XE, Contact: Adam Jones"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/47/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Tolchards Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "TA6 4DS",
+   "TQ2 7AX"
+  ],
+  "addresses": [
+   "Barhams Close, Bridgwater, Somerset, TA6 4DS",
+   "Woodland Road, Torquay, Devon, TQ2 7AX"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/47/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Top Op Foods Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "LU5 4LW"
+  ],
+  "addresses": [
+   "Unit 5 & Unit 6 Insignia Park, 51 Luton Rd, Dunstable, LU5 4LW, Contact: Babu Shah"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/47/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Turner & Wrights Ltd",
+  "trading_names": [
+   "Turner & Wrights Ltd (Kitwave Wholesale Group)"
+  ],
+  "parent": "Kitwave Group plc",
+  "postcodes": [
+   "BL6 4TW"
+  ],
+  "addresses": [
+   "Vine House, Lynstock Way, Lostock, BL6 4TW, Contact: Sud Patel"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/48/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "United Wholesale (Scotland) Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "G41 1SS",
+   "G33 4UL",
+   "FK3 8XX"
+  ],
+  "addresses": [
+   "164-166 Maxwell Road, Pollokshields, G41 1SS, Contact: Ali Afsar",
+   "Queenslie Depot Industrial Estate, 110 Easter Queenslie, Glasgow, G33 4UL, Contact: Ali Afsar",
+   "Thornbridge Works, Laurieston Road, Grangemouth, FK3 8XX"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/48/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "United Wholesale Grocers Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "G21 4BY",
+   "G42 0PH",
+   "NE11 0RQ"
+  ],
+  "addresses": [
+   "246 Flemington Street, Springburn, Glasgow, G21 4BY, Contact: Amaan Ramzan",
+   "350 Polmadie Road, Polmadie, Glasgow, G42 0PH, Contact: Amaan Ramzan",
+   "Earlsway Team Valley Trading Estate, Gateshead, NE11 0RQ, Contact: Amaan Ramzan"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/48/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/49/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "V A Whitley & Co Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "OL10 1NW",
+   "FY6 8JX",
+   "LL28 5HA"
+  ],
+  "addresses": [
+   "Milward House, Fir Street, Heywood, OL10 1NW",
+   "Vincent House, Wyrefields, Poulton Industrial Estate, Poulton-le-Fylde, FY6 8JX",
+   "Affleck House, Blackmarsh Road, Mochdre Business Park, Mochdre, Colwyn Bay, LL28 5HA"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/49/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Valley Foods Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "JE3 6DF"
+  ],
+  "addresses": [
+   "La Solitude Farm, St. Martin, JE3 6DF, Contact: Andrew Clackett"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/50/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": "Jersey (outside UK customs territory)",
+  "ni": false
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "VB & Sons (Trading) Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "HA0 1UR"
+  ],
+  "addresses": [
+   "VB House, Woodside End, Wembley, HA0 1UR, Contact: Natu Nathwani"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/50/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Venus Wine & Spirit Merchants PLC",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "N17 0UT",
+   "LS9 0RQ"
+  ],
+  "addresses": [
+   "Venus House, Unit 3, 62 Garman Road, Tottenham, N17 0UT",
+   "Unit 11, Riverside Place, Industrial Estate, Leeds, LS9 0RQ"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/50/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "W Wing Yip & Brothers Trading Group Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "B7 5NT",
+   "M4 5HU",
+   "CR0 4NZ",
+   "NW2 6LN"
+  ],
+  "addresses": [
+   "375 Nechells Park Road, Nechells, Birmingham, B7 5NT",
+   "Oldham Road, Ancoats, Manchester, M4 5HU",
+   "544 Purley Way, Croydon, London, CR0 4NZ",
+   "395 Edgware Road, Cricklewood, London, NW2 6LN"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/50/",
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/51/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Wanis International Foods",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "E10 7FE"
+  ],
+  "addresses": [
+   "Golden House, Golden Business Park, Leyton, E10 7FE, Contact: Dharam Bhamra"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/51/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Welch & Tidy Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "UB6 7JD"
+  ],
+  "addresses": [
+   "Europa House, 18 Wadsworth Road, Greenford, UB6 7JD, Contact: Gurinder Singh"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/51/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Westcountry Fruit Sales Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "TR11 5PE",
+   "PL25 3RF",
+   "TQ12 5LZ"
+  ],
+  "addresses": [
+   "The Distribution Centre, Higher Argal, Budock, TR11 5PE",
+   "St Austell Bay Business Park, Par Moor Road, St Austell, PL25 3RF",
+   "Unit 2, Silverhills Road, Decoy Industrial Estate, Newton Abbot, TQ12 5LZ"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/52/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Westone Wholesale",
+  "trading_names": [
+   "Westone Wholesale (Kitwave Wholesale Group)"
+  ],
+  "parent": "Kitwave Group plc",
+  "postcodes": [
+   "TF1 7GS"
+  ],
+  "addresses": [
+   "Unit C, Hortonwood 31, TF1 7GS, Contact: Michael Young"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/52/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Whitewells Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "LA4 5PX"
+  ],
+  "addresses": [
+   "1 Birketts Place, Off Thornton Road, Morecambe, LA4 5PX, Contact: Martin Wright"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/52/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Wild Leisure Group Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "OL9 9LZ"
+  ],
+  "addresses": [
+   "Westwood Industrial Estate, Arkwright Street, Oldham, OL9 9LZ, Contact: Steven Wild"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/53/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "William Yule & Son Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "KY1 3ER"
+  ],
+  "addresses": [
+   "8 Park Road, Kirkcaldy, Fife, KY1 3ER, Contact: Mike Patterson"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/53/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Wise Trading Limited",
+  "trading_names": [
+   "Crown Cash & Carry",
+   "Wise Trading Limited (T/A Crown Cash & Carry)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "HA4 0HN"
+  ],
+  "addresses": [
+   "Long Drive, Station Approach, South Ruislip, HA4 0HN, Contact: Rick Johal"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/53/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Y International UK Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "B6 7LG"
+  ],
+  "addresses": [
+   "1 Priory Road, B6 7LG, Contact: Nadeem Hashmi"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/53/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "Unitas Wholesale",
+  "member": "Young\u2019s Beer\u2019s Wines and Spirits Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BB9 6RT"
+  ],
+  "addresses": [
+   "Unit 20, Churchill Way, Lomeshaye Industrial Estate, Nelson, Lancashire, BB9 6RT, Contact: Roger Young"
+  ],
+  "source_urls": [
+   "https://unitaswholesale.co.uk/retailer/wholesaler-search-2/page/53/"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Bri-Ton Foodservice",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "ST5 6BE"
+  ],
+  "addresses": [
+   "Rowhurst Close, Chesterton, Newcastle, ST5 6BE"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "JMP Foodservice",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "LA10 5HQ"
+  ],
+  "addresses": [
+   "Birks Mill, Sedbergh, LA10 5HQ"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "A to Z Food Service",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "N8 9DG"
+  ],
+  "addresses": [
+   "15a Cranford Way, London, N8 9DG"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Dennis Edwards Foodservice",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "PO3 5JF"
+  ],
+  "addresses": [
+   "13 Limberline Road, Hilsea Industrial Estate, Portsmouth, PO3 5JF"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Food Options UK",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "EH53 0TN"
+  ],
+  "addresses": [
+   "8 Oakbank Industrial Estate Livingston, West Lothian, EH53 0TN"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Musgrave Food Service",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BT3 9HJ"
+  ],
+  "addresses": [
+   "Duncrue Road, Dargan Crescent, Belfast, BT3 9HJ"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": "Northern Ireland - HMRC trader data omits NI imports from the EU"
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "La Collette Cold Store",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "JE2 3NX"
+  ],
+  "addresses": [
+   "La Rue Durell, La Collette, Jersey, JE2 3NX"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": "Jersey (outside UK customs territory)",
+  "ni": false
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Youngs Foods",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "HU3 4EL"
+  ],
+  "addresses": [
+   "Venture Business Park, Unit 1, Subway St, Hull, HU3 4EL"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Tyneside Foodservice",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "NE21 5SD"
+  ],
+  "addresses": [
+   "Patterson Street, Blaydon-on-Tyne, NE21 5SD"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Thomsons",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "DG1 3SJ"
+  ],
+  "addresses": [
+   "Units 2 & 3 Block 1, Dumfries Enterprise Park, DG1 3SJ"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Musgrave",
+  "trading_names": [
+   "Musgrave \u2013 Ballymun / Head Office",
+   "Musgrave \u2013 Cork"
+  ],
+  "parent": "",
+  "postcodes": [
+   "T12 TN99",
+   "D11 FN84"
+  ],
+  "addresses": [
+   "Ballycureen, Airport Road, Cork, T12 TN99",
+   "St Margarets Road, Ballymun, Dublin, D11 FN84"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": "Republic of Ireland - outside HMRC trader data",
+  "ni": false
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "SJB Foods",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "EX10 0HP"
+  ],
+  "addresses": [
+   "The Old Sawmills, Hawkerland Road, Colaton Raleigh, Sidmouth, EX10 0HP"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Tindale Distribuciones",
+  "trading_names": [
+   "Tindale Distribuciones \u2013 Alicante",
+   "Tindale Distribuciones \u2013 Mallorca"
+  ],
+  "parent": "",
+  "postcodes": [],
+  "addresses": [
+   "",
+   ""
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": "Spain - outside HMRC trader data",
+  "ni": false
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "All Shires Foods",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "NG6 8YP"
+  ],
+  "addresses": [
+   "Unit 8 Blenheim Park Rd, Nottingham, NG6 8YP"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Allied Metro",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "G5 0BH"
+  ],
+  "addresses": [
+   "Toryglen St, Glasgow, G5 0BH"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Best Catering Foodservice",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "N17 0QH"
+  ],
+  "addresses": [
+   "Unit 5-9 Leeside Industrial Estate, Garman Road, Tottenham, London, N17 0QH"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Bramleys Wholesale",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "GL7 1YT"
+  ],
+  "addresses": [
+   "Unit 9 Wilkinson Rd, Cirencester, GL7 1YT"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Dear Brothers Catering",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "CM1 3ET"
+  ],
+  "addresses": [
+   "SKEGGS FARM UNIT 1, London, CM1 3ET"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Extra Cash & Carry",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "N17 0YD"
+  ],
+  "addresses": [
+   "Unit A Brantwood Rd, London, N17 0YD"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Ewood Foods",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BB5 6NT"
+  ],
+  "addresses": [
+   "Huncoat Business Park, Newhouse Rd, Accrington, BB5 6NT"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Ferrantes Foodservice",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BS5 7XE"
+  ],
+  "addresses": [
+   "Unit 5 Rose Green Rd, Fishponds, Bristol, BS5 7XE"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Freemans Event Partners",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "GL2 2RN"
+  ],
+  "addresses": [
+   "Unit Q2, Quadrant Distribution Centre, Quadrant Way, Hardwicke, Gloucestershire, GL2 2RN"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Holland Bazaar",
+  "trading_names": [
+   "Holland Bazaar (Croydon)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "N18 3BB",
+   "PE1 5XL",
+   "EN3 7SR",
+   "CR0 4XH"
+  ],
+  "addresses": [
+   "Holland Bazaar Cash & Carry, Croydon, England CR0 4XH, United Kingdom, Edmonton, N18 3BB",
+   "Padholme Road, Peteborough, PE1 5XL",
+   "Unit 2, East Duck Lees Lane, Ponders End Industrial Estate, Enfield, EN3 7SR",
+   "Holland Bazaar Cash & Carry, Croydon, CR0 4XH",
+   "Unit 15 A&B, Eley Estate, London, N18 3BB"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Howarth Wholesale",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "S81 7DL"
+  ],
+  "addresses": [
+   "57 Claylands Ave, Worksop, S81 7DL"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "J Kellett Foods",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "LS27 0HW"
+  ],
+  "addresses": [
+   "Southfield Mills, Topcliffe Ln, Morely, Leeds, LS27 0HW"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "KBC Foods NI",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BT53 7LH"
+  ],
+  "addresses": [
+   "The Acorn Business Centre, 2 Riada Avenue, Northern Ireland, BT53 7LH"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": "Northern Ireland - HMRC trader data omits NI imports from the EU"
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "L & S Middleton",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "WV13 3LH"
+  ],
+  "addresses": [
+   "Cash and Carry, 655 Willenhall Rd, Willenhall, WV13 3LH"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Lion Catering",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BH17 0GG"
+  ],
+  "addresses": [
+   "1 Morris Rd, Bournemouth, BH17 0GG"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "McCartney Foodservice",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "PE22 0NX"
+  ],
+  "addresses": [
+   "Church Rd, Freiston, Preston, PE22 0NX"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Merlin Food Service",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "PR4 3FZ"
+  ],
+  "addresses": [
+   "Unit G, Bradkirk Business Park, Weeton Road, Wesham, Preston, PR4 3FZ"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Parkers Foodservices",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BN18 0BF"
+  ],
+  "addresses": [
+   "Unit X, Rudford Industrial Estate, Ford, Arundel, BN18 0BF"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Parkview Provisions",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BT35 6EF"
+  ],
+  "addresses": [
+   "7a Springhill Rd, Newry, Northern Ireland, BT35 6EF"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": "Northern Ireland - HMRC trader data omits NI imports from the EU"
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Premier Quality Foods",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "WF9 5JB"
+  ],
+  "addresses": [
+   "Hoyle Mill Rd, Kinsley, Pontefract, WF9 5JB"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Midland Foodservice",
+  "trading_names": [
+   "Q Mover",
+   "Q Mover (Midland Foodservice)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "DE13 8EJ"
+  ],
+  "addresses": [
+   "Rylance Farm, Walton La, Burton on trent, DE13 8EJ"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Roy Evans & Sons",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "ST4 3PE"
+  ],
+  "addresses": [
+   "Galveston Grove, Fenton, Stoke, ST4 3PE"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "T Quality",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "SN5 7YY"
+  ],
+  "addresses": [
+   "Westmead Industrial Estate, Westlea, Swindon, SN5 7YY"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Thompsons Food Service",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "NR30 3PR"
+  ],
+  "addresses": [
+   "Nelsons Yard, S Denes Rd, Great Yarmouth, NR30 3PR"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Waterside Foodservice",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "DE14 3HD"
+  ],
+  "addresses": [
+   "Unit 4, Premier Park, Branston Industrial Park, Lichfield Road, Branston, Burton-on-Trent, DE14 3HD"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Williamson Foodservice",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "IV1 1TD"
+  ],
+  "addresses": [
+   "5 Walker Rd, Inverness, IV1 1TD"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Adamsons Drinks Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "KY11 8HN"
+  ],
+  "addresses": [
+   "Queensferry View, Dunfermline, KY11 8HN"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Baby Bottles (Wholesale) Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "CV7 9NH"
+  ],
+  "addresses": [
+   "Bayton Rd. Ind. Est., Coventry, CV7 9NH"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Chamdol UK Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "TW13 7DU"
+  ],
+  "addresses": [
+   "Unit 7, Feltham Industrial Estate, Feltham, TW13 7DU"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Colemans ABC Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "TN38 8BG"
+  ],
+  "addresses": [
+   "The Old Tram Depot, St Leonards on Sea, TN38 8BG"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Convenience Distribution",
+  "trading_names": [
+   "Convenience Distribution (S S)"
+  ],
+  "parent": "",
+  "postcodes": [
+   "HA9 0YJ"
+  ],
+  "addresses": [
+   "Unit 11, Metro Trading Centre, Wembley, HA9 0YJ"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "D D C Foods Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "HP2 7DE"
+  ],
+  "addresses": [
+   "Maylands House, Hemel Hempstead, HP2 7DE"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "R Duckworth (Wholesale) Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "FY4 4QJ"
+  ],
+  "addresses": [
+   "Ellbrook House, Blackpool, FY4 4QJ"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "East N West Cash & Carry Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "IG11 0DG"
+  ],
+  "addresses": [
+   "Unit 9 Cromwell Business Centre, Essex, IG11 0DG"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Euroglobe Distributors Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "RM6 5NF"
+  ],
+  "addresses": [
+   "Unit D, Hainault Works, Essex, RM6 5NF"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Famous Brand Wholesale Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "L40 7SR"
+  ],
+  "addresses": [
+   "Unit 3, Abbey Lane Industrial Estate, Burscough, L40 7SR"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Food Store International",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "B76 1AH"
+  ],
+  "addresses": [
+   "Unit 11, Forge Lane Estate, Sutton Coldfield, B76 1AH"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Foods of Europe Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "GU35 9QF"
+  ],
+  "addresses": [
+   "80-86 Woolmer Trading Est, Bordon, GU35 9QF"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "G M H Trading Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "NW2 2AD"
+  ],
+  "addresses": [
+   "56a Crewys Road, London, NW2 2AD"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "M & G Hooper Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "NG7 7HS"
+  ],
+  "addresses": [
+   "Palm Street, Nottingham, NG7 7HS"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "I A Distribution Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "NG19 8BB"
+  ],
+  "addresses": [
+   "Upper Floor 15 High Street, Mansfield, NG19 8BB"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Inn Express Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "B49 6GB"
+  ],
+  "addresses": [
+   "Units 3 & 4, Lower Barn Buildings, Haselor, B49 6GB"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "J H F Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "TW15 1AX"
+  ],
+  "addresses": [
+   "Challenge Road, Ashford, TW15 1AX"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "KCS Cash & Carry Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "UB3 3BL"
+  ],
+  "addresses": [
+   "Unit 3, Silverdale Industrial Estate, Middlesex, UB3 3BL"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Luxurious Personal Care Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "SG17 9GQ"
+  ],
+  "addresses": [
+   "C1 18 - C2 19, Vision Business Park, Biggleswade, SG17 9GQ"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Millennium Cash & Carry Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "RM19 1NA"
+  ],
+  "addresses": [
+   "Queen Elizabeth Distribution, Essex, RM19 1NA"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Narang Wholesalers Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "BD8 8JR"
+  ],
+  "addresses": [
+   "Narang House, Bradford, BD8 8JR"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "North West Tea Service Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "L36 6HY"
+  ],
+  "addresses": [
+   "9 & 10 Brickfields, Merseyside, L36 6HY"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Pelam Foods Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "HP5 3EE"
+  ],
+  "addresses": [
+   "3 Mead Business Centre, Chesham, HP5 3EE"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Rowan International Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "SS14 3WF"
+  ],
+  "addresses": [
+   "Endeavour Drive, Essex, SS14 3WF"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Sephra Europe Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "KY1 2BJ"
+  ],
+  "addresses": [
+   "Sephra House, Fife, KY1 2BJ"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Smylie Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "CH62 3RR"
+  ],
+  "addresses": [
+   "Unit 7, Riverview Bus. Pk, Bromborough, CH62 3RR"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Trade Winds Liverpool Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "CH64 5TJ"
+  ],
+  "addresses": [
+   "Arden Dee, Burton, CH64 5TJ"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Universal Product Solutions Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "PR2 5PH"
+  ],
+  "addresses": [
+   "Unit 4C, Trefoil Way, Preston, PR2 5PH"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "World Link Wholesale Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "HA0 1BH"
+  ],
+  "addresses": [
+   "Access Self Storage, Alperton, HA0 1BH"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Wowboxme Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "LU7 3RE"
+  ],
+  "addresses": [
+   "Unit 10 Apex Park, Leighton Buzzard, LU7 3RE"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Y & C Wholesale Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "EN3 7QN"
+  ],
+  "addresses": [
+   "27-28 Riverwalk, London, EN3 7QN"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Zepbrook Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "W3 0TH"
+  ],
+  "addresses": [
+   "26 Westwood Park, London, W3 0TH"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Elm Valley Foods Ltd",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "IP30 9HN"
+  ],
+  "addresses": [
+   "The Coldstore, Grove Lane, Elmswell, IP30 9HN"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ },
+ {
+  "group": "The Wholesale Group",
+  "member": "Deckers Trading Limited",
+  "trading_names": [],
+  "parent": "",
+  "postcodes": [
+   "OL11 3EX"
+  ],
+  "addresses": [
+   "Unit E & F Royle Pennine Trading Estate, Lynroyle Way, Rochdale, OL11 3EX"
+  ],
+  "source_urls": [
+   "https://thewholesalegroup.co.uk/where-to-buy/ (data: https://thewholesalegroup.co.uk/wp-json/wp/v2/wpsl_stores?per_page=100 + store_search tiles)"
+  ],
+  "retrieved_utc": [
+   "2026-11-09"
+  ],
+  "scope_note": ""
+ }
+]
